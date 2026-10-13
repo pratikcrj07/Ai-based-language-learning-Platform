@@ -121,11 +121,7 @@ npx expo start
 - **10 unit tests:** login (valid and invalid), registration (valid and duplicate email), course selection (with and without login), answer evaluation (correct and incorrect), NLP grammar correction, logout.
 - **10 system tests:** end-to-end login and registration, course enrolment, vocabulary module, grammar evaluation, chatbot interaction, database integration, API communication, session handling, and invalid-input handling.
 
-## Screenshots
 
-| Login | Learn | Practice | Chat | Progress |
-| --- | --- | --- | --- | --- |
-| ![](screenshots/login.png) | ![](screenshots/learn.png) | ![](screenshots/practice.png) | ![](screenshots/chat.png) | ![](screenshots/progress.png) |
 
 ## Limitations and Roadmap
 
@@ -140,9 +136,6 @@ npx expo start
 - [ ] Offline lessons
 - [ ] Admin dashboard for courses and learner monitoring
 
-## Documentation
-
-Project report, UML and data-flow diagrams, and defence slides are in [`/docs`](docs/).
 
 ## Team
 
