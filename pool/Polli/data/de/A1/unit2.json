@@ -1,0 +1,619 @@
+{
+  "language": "de",
+  "level": "A1",
+  "unit": 2,
+  "title": "Talking About Yourself",
+  "contents": [
+    {
+      "id": 1,
+      "content_type": "introduction",
+      "description_word": "Practice the key vocabulary for this lesson.",
+      "description_sentence": "Build confidence with realistic everyday phrases and sentence patterns.",
+      "description_dialogue": "",
+      "contents": []
+    },
+    {
+      "id": 2,
+      "content_type": "words",
+      "description": "(Try repeating these words after the audio to practice your pronunciation.)",
+      "contents": [
+        {
+          "id": 1,
+          "word": "ich",
+          "translation": "I"
+        },
+        {
+          "id": 2,
+          "word": "du",
+          "translation": "you"
+        },
+        {
+          "id": 3,
+          "word": "wohnen",
+          "translation": "to live"
+        },
+        {
+          "id": 4,
+          "word": "arbeiten",
+          "translation": "to work"
+        },
+        {
+          "id": 5,
+          "word": "lernen",
+          "translation": "to study"
+        },
+        {
+          "id": 6,
+          "word": "Schule",
+          "translation": "school"
+        },
+        {
+          "id": 7,
+          "word": "Hobby",
+          "translation": "hobby"
+        },
+        {
+          "id": 8,
+          "word": "Familie",
+          "translation": "family"
+        },
+        {
+          "id": 9,
+          "word": "Freund",
+          "translation": "friend"
+        },
+        {
+          "id": 10,
+          "word": "Freundin",
+          "translation": "friend (female)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "content_type": "word_content",
+      "contents": [
+        {
+          "id": 1,
+          "words": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": 2,
+          "words": [
+            3,
+            4
+          ]
+        },
+        {
+          "id": 3,
+          "words": [
+            5,
+            6
+          ]
+        },
+        {
+          "id": 4,
+          "words": [
+            7,
+            8
+          ]
+        },
+        {
+          "id": 5,
+          "words": [
+            5
+          ]
+        },
+        {
+          "id": 6,
+          "words": [
+            6
+          ]
+        },
+        {
+          "id": 7,
+          "words": [
+            7
+          ]
+        },
+        {
+          "id": 8,
+          "words": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "content_type": "matching_exercises",
+      "description": "Match the words with their English translations.",
+      "exercises": [
+        {
+          "id": 1,
+          "question_words": [
+            3,
+            4,
+            5
+          ],
+          "answer_words": [
+            5,
+            4,
+            3
+          ]
+        },
+        {
+          "id": 2,
+          "question_words": [
+            5,
+            6,
+            7
+          ],
+          "answer_words": [
+            7,
+            6,
+            5
+          ]
+        },
+        {
+          "id": 3,
+          "question_words": [
+            7,
+            8,
+            9
+          ],
+          "answer_words": [
+            9,
+            8,
+            7
+          ]
+        },
+        {
+          "id": 4,
+          "question_words": [
+            9,
+            10,
+            1
+          ],
+          "answer_words": [
+            1,
+            10,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "content_type": "mcq_translation_exercises",
+      "description": "Choose the correct translation for the given word.",
+      "exercises": [
+        {
+          "id": 1,
+          "question_word": 1,
+          "options": [
+            1,
+            4,
+            7,
+            9
+          ]
+        },
+        {
+          "id": 2,
+          "question_word": 2,
+          "options": [
+            2,
+            5,
+            8,
+            10
+          ]
+        },
+        {
+          "id": 3,
+          "question_word": 3,
+          "options": [
+            3,
+            6,
+            9,
+            1
+          ]
+        },
+        {
+          "id": 4,
+          "question_word": 4,
+          "options": [
+            4,
+            7,
+            10,
+            2
+          ]
+        },
+        {
+          "id": 5,
+          "question_word": 5,
+          "options": [
+            5,
+            8,
+            1,
+            3
+          ]
+        },
+        {
+          "id": 6,
+          "question_word": 6,
+          "options": [
+            6,
+            9,
+            2,
+            4
+          ]
+        },
+        {
+          "id": 7,
+          "question_word": 7,
+          "options": [
+            7,
+            10,
+            3,
+            5
+          ]
+        },
+        {
+          "id": 8,
+          "question_word": 8,
+          "options": [
+            8,
+            1,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "content_type": "sentence_translate_target_to_english",
+      "description": "Translate the following sentences from the target language to English.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Ich wohne in Berlin.",
+          "options": [
+            "I",
+            "live",
+            "in",
+            "Berlin",
+            "school",
+            "happy"
+          ],
+          "meanings": {
+            "Ich": "I",
+            "wohne": "live",
+            "in": "in",
+            "Berlin": "Berlin"
+          },
+          "correct_order": [
+            "I",
+            "live",
+            "in",
+            "Berlin"
+          ]
+        },
+        {
+          "id": 2,
+          "sentence": "Ich arbeite und lerne.",
+          "options": [
+            "I",
+            "work",
+            "and",
+            "study",
+            "school",
+            "family"
+          ],
+          "meanings": {
+            "Ich": "I",
+            "arbeite": "work",
+            "lerne": "study"
+          },
+          "correct_order": [
+            "I",
+            "work",
+            "and",
+            "study"
+          ]
+        },
+        {
+          "id": 3,
+          "sentence": "Meine Familie ist groß.",
+          "options": [
+            "My",
+            "family",
+            "is",
+            "big",
+            "school",
+            "friend"
+          ],
+          "meanings": {
+            "Meine": "My",
+            "Familie": "family",
+            "ist": "is",
+            "groß": "big"
+          },
+          "correct_order": [
+            "My",
+            "family",
+            "is",
+            "big"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "content_type": "sentence_translate_english_to_target",
+      "description": "Translate the following sentences from English to the target language.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "I live in Berlin.",
+          "options": [
+            "Ich",
+            "wohne",
+            "in",
+            "Berlin",
+            "Schule",
+            "Hobby"
+          ],
+          "meanings": {
+            "Ich": "I",
+            "wohne": "live",
+            "in": "in",
+            "Berlin": "Berlin"
+          },
+          "correct_order": [
+            "Ich",
+            "wohne",
+            "in",
+            "Berlin"
+          ]
+        },
+        {
+          "id": 2,
+          "sentence": "I work and study.",
+          "options": [
+            "Ich",
+            "arbeite",
+            "und",
+            "lerne",
+            "Familie",
+            "Schule"
+          ],
+          "meanings": {
+            "Ich": "I",
+            "arbeite": "work",
+            "und": "and",
+            "lerne": "study"
+          },
+          "correct_order": [
+            "Ich",
+            "arbeite",
+            "und",
+            "lerne"
+          ]
+        },
+        {
+          "id": 3,
+          "sentence": "My family is big.",
+          "options": [
+            "Meine",
+            "Familie",
+            "ist",
+            "groß",
+            "Hobby",
+            "Freund"
+          ],
+          "meanings": {
+            "Meine": "My",
+            "Familie": "family",
+            "ist": "is",
+            "groß": "big"
+          },
+          "correct_order": [
+            "Meine",
+            "Familie",
+            "ist",
+            "groß"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "content_type": "listen_and_choose",
+      "description": "Listen to the audio and choose the correct word order.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Ich wohne in Berlin.",
+          "options": [
+            "Ich",
+            "wohne",
+            "in",
+            "Berlin",
+            "Schule",
+            "Freund"
+          ],
+          "correct_order": [
+            "Ich",
+            "wohne",
+            "in",
+            "Berlin"
+          ],
+          "meaning": "I live in Berlin."
+        },
+        {
+          "id": 2,
+          "sentence": "Ich lerne Deutsch.",
+          "options": [
+            "Ich",
+            "lerne",
+            "Deutsch",
+            "Familie",
+            "Freund",
+            "Hobby"
+          ],
+          "correct_order": [
+            "Ich",
+            "lerne",
+            "Deutsch"
+          ],
+          "meaning": "I learn German."
+        },
+        {
+          "id": 3,
+          "sentence": "Meine Familie ist groß.",
+          "options": [
+            "Meine",
+            "Familie",
+            "ist",
+            "groß",
+            "Schule",
+            "arbeit"
+          ],
+          "correct_order": [
+            "Meine",
+            "Familie",
+            "ist",
+            "groß"
+          ],
+          "meaning": "My family is large."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "content_type": "fill_in_the_blank",
+      "description": "Fill in the blanks with the correct words to complete the sentences.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Ich _____ in Berlin.",
+          "options": [
+            "wohne",
+            "lerne",
+            "arbeite",
+            "Freund"
+          ],
+          "correct_answer": "wohne",
+          "meaning": "I live in Berlin."
+        },
+        {
+          "id": 2,
+          "sentence": "Meine _____ ist groß.",
+          "options": [
+            "Familie",
+            "Schule",
+            "Hobby",
+            "Freund"
+          ],
+          "correct_answer": "Familie",
+          "meaning": "My family is big."
+        },
+        {
+          "id": 3,
+          "sentence": "Ich _____ Deutsch.",
+          "options": [
+            "lerne",
+            "wohne",
+            "arbeite",
+            "Name"
+          ],
+          "correct_answer": "lerne",
+          "meaning": "I learn German."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "content_type": "dialogue",
+      "description": "Practice a real conversation by choosing the correct response.",
+      "exercises": [
+        {
+          "id": 1,
+          "dialogue": "Wo wohnst du?",
+          "dialogue_translation": "Where do you live?",
+          "options": [
+            "Ich wohne in Berlin.",
+            "Ich bin Lehrer.",
+            "Danke!"
+          ],
+          "correct_answer": "Ich wohne in Berlin.",
+          "meaning": "I live in Berlin."
+        },
+        {
+          "id": 2,
+          "dialogue": "Was machst du?",
+          "dialogue_translation": "What do you do?",
+          "options": [
+            "Ich lerne Deutsch.",
+            "Guten Morgen!",
+            "Tschüss!"
+          ],
+          "correct_answer": "Ich lerne Deutsch.",
+          "meaning": "I study German."
+        },
+        {
+          "id": 3,
+          "dialogue": "Hast du ein Hobby?",
+          "dialogue_translation": "Do you have a hobby?",
+          "options": [
+            "Ja, ich lese gern.",
+            "Guten Tag!",
+            "Bitte."
+          ],
+          "correct_answer": "Ja, ich lese gern.",
+          "meaning": "Yes, I like to read."
+        },
+        {
+          "id": 4,
+          "dialogue": "Wie ist deine Familie?",
+          "dialogue_translation": "How is your family?",
+          "options": [
+            "Meine Familie ist groß.",
+            "Ich heiße Anna.",
+            "Ich bin müde."
+          ],
+          "correct_answer": "Meine Familie ist groß.",
+          "meaning": "My family is big."
+        },
+        {
+          "id": 5,
+          "dialogue": "Arbeitest du?",
+          "dialogue_translation": "Do you work?",
+          "options": [
+            "Ja, ich arbeite in der Stadt.",
+            "Nein, danke.",
+            "Auf Wiedersehen!"
+          ],
+          "correct_answer": "Ja, ich arbeite in der Stadt.",
+          "meaning": "Yes, I work in the city."
+        },
+        {
+          "id": 6,
+          "dialogue": "Was ist dein Hobby?",
+          "dialogue_translation": "What is your hobby?",
+          "options": [
+            "Ich spiele Fußball.",
+            "Guten Abend!",
+            "Bitte!"
+          ],
+          "correct_answer": "Ich spiele Fußball.",
+          "meaning": "I play football."
+        }
+      ]
+    }
+  ]
+}

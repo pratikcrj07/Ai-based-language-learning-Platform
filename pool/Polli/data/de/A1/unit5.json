@@ -1,0 +1,624 @@
+{
+  "language": "de",
+  "level": "A1",
+  "unit": 5,
+  "title": "Basic Shopping",
+  "contents": [
+    {
+      "id": 1,
+      "content_type": "introduction",
+      "description_word": "Practice the key vocabulary for this lesson.",
+      "description_sentence": "Build confidence with realistic everyday phrases and sentence patterns.",
+      "description_dialogue": "",
+      "contents": []
+    },
+    {
+      "id": 2,
+      "content_type": "words",
+      "description": "(Try repeating these words after the audio to practice your pronunciation.)",
+      "contents": [
+        {
+          "id": 1,
+          "word": "Preis",
+          "translation": "price"
+        },
+        {
+          "id": 2,
+          "word": "Kasse",
+          "translation": "checkout"
+        },
+        {
+          "id": 3,
+          "word": "Kaufen",
+          "translation": "to buy"
+        },
+        {
+          "id": 4,
+          "word": "groß",
+          "translation": "big"
+        },
+        {
+          "id": 5,
+          "word": "klein",
+          "translation": "small"
+        },
+        {
+          "id": 6,
+          "word": "billig",
+          "translation": "cheap"
+        },
+        {
+          "id": 7,
+          "word": "teuer",
+          "translation": "expensive"
+        },
+        {
+          "id": 8,
+          "word": "Tasche",
+          "translation": "bag"
+        },
+        {
+          "id": 9,
+          "word": "Karte",
+          "translation": "card"
+        },
+        {
+          "id": 10,
+          "word": "Supermarkt",
+          "translation": "supermarket"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "content_type": "word_content",
+      "contents": [
+        {
+          "id": 1,
+          "words": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": 2,
+          "words": [
+            3,
+            4
+          ]
+        },
+        {
+          "id": 3,
+          "words": [
+            5,
+            6
+          ]
+        },
+        {
+          "id": 4,
+          "words": [
+            7,
+            8
+          ]
+        },
+        {
+          "id": 5,
+          "words": [
+            5
+          ]
+        },
+        {
+          "id": 6,
+          "words": [
+            6
+          ]
+        },
+        {
+          "id": 7,
+          "words": [
+            7
+          ]
+        },
+        {
+          "id": 8,
+          "words": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "content_type": "matching_exercises",
+      "description": "Match the words with their English translations.",
+      "exercises": [
+        {
+          "id": 1,
+          "question_words": [
+            3,
+            4,
+            5
+          ],
+          "answer_words": [
+            5,
+            4,
+            3
+          ]
+        },
+        {
+          "id": 2,
+          "question_words": [
+            5,
+            6,
+            7
+          ],
+          "answer_words": [
+            7,
+            6,
+            5
+          ]
+        },
+        {
+          "id": 3,
+          "question_words": [
+            7,
+            8,
+            9
+          ],
+          "answer_words": [
+            9,
+            8,
+            7
+          ]
+        },
+        {
+          "id": 4,
+          "question_words": [
+            9,
+            10,
+            1
+          ],
+          "answer_words": [
+            1,
+            10,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "content_type": "mcq_translation_exercises",
+      "description": "Choose the correct translation for the given word.",
+      "exercises": [
+        {
+          "id": 1,
+          "question_word": 1,
+          "options": [
+            1,
+            4,
+            7,
+            9
+          ]
+        },
+        {
+          "id": 2,
+          "question_word": 2,
+          "options": [
+            2,
+            5,
+            8,
+            10
+          ]
+        },
+        {
+          "id": 3,
+          "question_word": 3,
+          "options": [
+            3,
+            6,
+            9,
+            1
+          ]
+        },
+        {
+          "id": 4,
+          "question_word": 4,
+          "options": [
+            4,
+            7,
+            10,
+            2
+          ]
+        },
+        {
+          "id": 5,
+          "question_word": 5,
+          "options": [
+            5,
+            8,
+            1,
+            3
+          ]
+        },
+        {
+          "id": 6,
+          "question_word": 6,
+          "options": [
+            6,
+            9,
+            2,
+            4
+          ]
+        },
+        {
+          "id": 7,
+          "question_word": 7,
+          "options": [
+            7,
+            10,
+            3,
+            5
+          ]
+        },
+        {
+          "id": 8,
+          "question_word": 8,
+          "options": [
+            8,
+            1,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "content_type": "sentence_translate_target_to_english",
+      "description": "Translate the following sentences from the target language to English.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Der Preis ist gut.",
+          "options": [
+            "The",
+            "price",
+            "is",
+            "good",
+            "cheap",
+            "big"
+          ],
+          "meanings": {
+            "Der": "The",
+            "Preis": "price",
+            "ist": "is",
+            "gut": "good"
+          },
+          "correct_order": [
+            "The",
+            "price",
+            "is",
+            "good"
+          ]
+        },
+        {
+          "id": 2,
+          "sentence": "Ich kaufe eine Tasche.",
+          "options": [
+            "I",
+            "buy",
+            "a",
+            "bag",
+            "card",
+            "coffee"
+          ],
+          "meanings": {
+            "Ich": "I",
+            "kaufe": "buy",
+            "eine": "a",
+            "Tasche": "bag"
+          },
+          "correct_order": [
+            "I",
+            "buy",
+            "a",
+            "bag"
+          ]
+        },
+        {
+          "id": 3,
+          "sentence": "Kann ich mit Karte zahlen?",
+          "options": [
+            "Can",
+            "I",
+            "pay",
+            "with",
+            "card",
+            "cash"
+          ],
+          "meanings": {
+            "Kann": "Can",
+            "ich": "I",
+            "mit": "with",
+            "Karte": "card"
+          },
+          "correct_order": [
+            "Can",
+            "I",
+            "pay",
+            "with",
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "content_type": "sentence_translate_english_to_target",
+      "description": "Translate the following sentences from English to the target language.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "The price is good.",
+          "options": [
+            "Der",
+            "Preis",
+            "ist",
+            "gut",
+            "teuer",
+            "Karte"
+          ],
+          "meanings": {
+            "Der": "The",
+            "Preis": "price",
+            "ist": "is",
+            "gut": "good"
+          },
+          "correct_order": [
+            "Der",
+            "Preis",
+            "ist",
+            "gut"
+          ]
+        },
+        {
+          "id": 2,
+          "sentence": "I buy a bag.",
+          "options": [
+            "Ich",
+            "kaufe",
+            "eine",
+            "Tasche",
+            "Karte",
+            "Preis"
+          ],
+          "meanings": {
+            "Ich": "I",
+            "kaufe": "buy",
+            "eine": "a",
+            "Tasche": "bag"
+          },
+          "correct_order": [
+            "Ich",
+            "kaufe",
+            "eine",
+            "Tasche"
+          ]
+        },
+        {
+          "id": 3,
+          "sentence": "Can I pay by card?",
+          "options": [
+            "Kann",
+            "ich",
+            "mit",
+            "Karte",
+            "zahlen",
+            "Preis"
+          ],
+          "meanings": {
+            "Kann": "Can",
+            "ich": "I",
+            "mit": "with",
+            "Karte": "card"
+          },
+          "correct_order": [
+            "Kann",
+            "ich",
+            "mit",
+            "Karte",
+            "zahlen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "content_type": "listen_and_choose",
+      "description": "Listen to the audio and choose the correct word order.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Der Preis ist gut.",
+          "options": [
+            "Der",
+            "Preis",
+            "ist",
+            "gut",
+            "Kasse",
+            "Tasche"
+          ],
+          "correct_order": [
+            "Der",
+            "Preis",
+            "ist",
+            "gut"
+          ],
+          "meaning": "The price is good."
+        },
+        {
+          "id": 2,
+          "sentence": "Ich kaufe eine Tasche.",
+          "options": [
+            "Ich",
+            "kaufe",
+            "eine",
+            "Tasche",
+            "Preis",
+            "Karte"
+          ],
+          "correct_order": [
+            "Ich",
+            "kaufe",
+            "eine",
+            "Tasche"
+          ],
+          "meaning": "I buy a bag."
+        },
+        {
+          "id": 3,
+          "sentence": "Kann ich mit Karte zahlen?",
+          "options": [
+            "Kann",
+            "ich",
+            "mit",
+            "Karte",
+            "zahlen",
+            "Supermarkt"
+          ],
+          "correct_order": [
+            "Kann",
+            "ich",
+            "mit",
+            "Karte",
+            "zahlen"
+          ],
+          "meaning": "Can I pay by card?"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "content_type": "fill_in_the_blank",
+      "description": "Fill in the blanks with the correct words to complete the sentences.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Der _____ ist gut.",
+          "options": [
+            "Preis",
+            "Kasse",
+            "Tasche",
+            "Karte"
+          ],
+          "correct_answer": "Preis",
+          "meaning": "The price is good."
+        },
+        {
+          "id": 2,
+          "sentence": "Ich kaufe eine _____.",
+          "options": [
+            "Tasche",
+            "Kasse",
+            "Preis",
+            "Supermarkt"
+          ],
+          "correct_answer": "Tasche",
+          "meaning": "I buy a bag."
+        },
+        {
+          "id": 3,
+          "sentence": "Kann ich mit _____ zahlen?",
+          "options": [
+            "Karte",
+            "Tasche",
+            "Preis",
+            "Hobby"
+          ],
+          "correct_answer": "Karte",
+          "meaning": "Can I pay by card?"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "content_type": "dialogue",
+      "description": "Practice a real conversation by choosing the correct response.",
+      "exercises": [
+        {
+          "id": 1,
+          "dialogue": "Wie viel kostet das?",
+          "dialogue_translation": "How much does it cost?",
+          "options": [
+            "Der Preis ist gut.",
+            "Ich wohne hier.",
+            "Guten Abend!"
+          ],
+          "correct_answer": "Der Preis ist gut.",
+          "meaning": "The price is good."
+        },
+        {
+          "id": 2,
+          "dialogue": "Möchten Sie eine Tasche?",
+          "dialogue_translation": "Would you like a bag?",
+          "options": [
+            "Ja, bitte.",
+            "Ich bin 22.",
+            "Danke schön."
+          ],
+          "correct_answer": "Ja, bitte.",
+          "meaning": "Yes, please."
+        },
+        {
+          "id": 3,
+          "dialogue": "Zahlen Sie mit Karte?",
+          "dialogue_translation": "Are you paying by card?",
+          "options": [
+            "Ja, mit Karte.",
+            "Ich bin müde.",
+            "Tschüss!"
+          ],
+          "correct_answer": "Ja, mit Karte.",
+          "meaning": "Yes, by card."
+        },
+        {
+          "id": 4,
+          "dialogue": "Wo ist die Kasse?",
+          "dialogue_translation": "Where is the checkout?",
+          "options": [
+            "Die Kasse ist dort.",
+            "Ich habe Hunger.",
+            "Bitte."
+          ],
+          "correct_answer": "Die Kasse ist dort.",
+          "meaning": "The checkout is there."
+        },
+        {
+          "id": 5,
+          "dialogue": "Ist das teuer?",
+          "dialogue_translation": "Is it expensive?",
+          "options": [
+            "Nein, es ist billig.",
+            "Ich arbeite hier.",
+            "Guten Morgen!"
+          ],
+          "correct_answer": "Nein, es ist billig.",
+          "meaning": "No, it is cheap."
+        },
+        {
+          "id": 6,
+          "dialogue": "Wo ist der Supermarkt?",
+          "dialogue_translation": "Where is the supermarket?",
+          "options": [
+            "Er ist in der Straße.",
+            "Ich lese gern.",
+            "Danke!"
+          ],
+          "correct_answer": "Er ist in der Straße.",
+          "meaning": "It is on the street."
+        }
+      ]
+    }
+  ]
+}

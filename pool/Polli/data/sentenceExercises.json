@@ -1,0 +1,508 @@
+{
+  "exercises": [
+    {
+      "id": 1,
+      "level": "A1",
+      "unit": 1,
+      "title": "Greetings and Introductions",
+      "content": [
+        {
+          "id": 1,
+          "exercise_type": "introduction"
+        },
+        {
+          "id": 2,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 1
+        },
+        {
+          "id": 11,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 1
+        },
+        {
+          "id": 3,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 1
+        },
+        {
+          "id": 4,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 1
+        },
+        {
+          "id": 5,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 2
+        },
+        {
+          "id": 6,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 2
+        },
+        {
+          "id": 12,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 2
+        },
+        {
+          "id": 7,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 2
+        },
+        {
+          "id": 13,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 3
+        },
+        {
+          "id": 8,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 3
+        },
+        {
+          "id": 9,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 3
+        },
+        {
+          "id": 10,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "A1",
+      "unit": 2,
+      "title": "Talking About Yourself",
+      "content": [
+        {
+          "id": 1,
+          "exercise_type": "introduction"
+        },
+        {
+          "id": 2,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 1
+        },
+        {
+          "id": 11,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 1
+        },
+        {
+          "id": 3,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 1
+        },
+        {
+          "id": 4,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 1
+        },
+        {
+          "id": 5,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 2
+        },
+        {
+          "id": 6,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 2
+        },
+        {
+          "id": 12,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 2
+        },
+        {
+          "id": 7,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 2
+        },
+        {
+          "id": 13,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 3
+        },
+        {
+          "id": 8,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 3
+        },
+        {
+          "id": 9,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 3
+        },
+        {
+          "id": 10,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "A1",
+      "unit": 3,
+      "title": "Numbers, Time and Dates",
+      "content": [
+        {
+          "id": 1,
+          "exercise_type": "introduction"
+        },
+        {
+          "id": 2,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 1
+        },
+        {
+          "id": 11,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 1
+        },
+        {
+          "id": 3,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 1
+        },
+        {
+          "id": 4,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 1
+        },
+        {
+          "id": 5,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 2
+        },
+        {
+          "id": 6,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 2
+        },
+        {
+          "id": 12,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 2
+        },
+        {
+          "id": 7,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 2
+        },
+        {
+          "id": 13,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 3
+        },
+        {
+          "id": 8,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 3
+        },
+        {
+          "id": 9,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 3
+        },
+        {
+          "id": 10,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "A1",
+      "unit": 4,
+      "title": "Basic Food and Drinks",
+      "content": [
+        {
+          "id": 1,
+          "exercise_type": "introduction"
+        },
+        {
+          "id": 2,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 1
+        },
+        {
+          "id": 11,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 1
+        },
+        {
+          "id": 3,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 1
+        },
+        {
+          "id": 4,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 1
+        },
+        {
+          "id": 5,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 2
+        },
+        {
+          "id": 6,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 2
+        },
+        {
+          "id": 12,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 2
+        },
+        {
+          "id": 7,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 2
+        },
+        {
+          "id": 13,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 3
+        },
+        {
+          "id": 8,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 3
+        },
+        {
+          "id": 9,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 3
+        },
+        {
+          "id": 10,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "A1",
+      "unit": 5,
+      "title": "Basic Shopping",
+      "content": [
+        {
+          "id": 1,
+          "exercise_type": "introduction"
+        },
+        {
+          "id": 2,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 1
+        },
+        {
+          "id": 11,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 1
+        },
+        {
+          "id": 3,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 1
+        },
+        {
+          "id": 4,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 1
+        },
+        {
+          "id": 5,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 2
+        },
+        {
+          "id": 6,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 2
+        },
+        {
+          "id": 12,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 2
+        },
+        {
+          "id": 7,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 2
+        },
+        {
+          "id": 13,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 3
+        },
+        {
+          "id": 8,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 3
+        },
+        {
+          "id": 9,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 3
+        },
+        {
+          "id": 10,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "level": "A1",
+      "unit": 6,
+      "title": "Basic Directions",
+      "content": [
+        {
+          "id": 1,
+          "exercise_type": "introduction"
+        },
+        {
+          "id": 2,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 1
+        },
+        {
+          "id": 11,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 1
+        },
+        {
+          "id": 3,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 1
+        },
+        {
+          "id": 4,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 1
+        },
+        {
+          "id": 5,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 2
+        },
+        {
+          "id": 6,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 2
+        },
+        {
+          "id": 12,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 2
+        },
+        {
+          "id": 7,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 2
+        },
+        {
+          "id": 13,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 3
+        },
+        {
+          "id": 8,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 3
+        },
+        {
+          "id": 9,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 3
+        },
+        {
+          "id": 10,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "level": "A1",
+      "unit": 7,
+      "title": "Making Basic Requests",
+      "content": [
+        {
+          "id": 1,
+          "exercise_type": "introduction"
+        },
+        {
+          "id": 2,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 1
+        },
+        {
+          "id": 11,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 1
+        },
+        {
+          "id": 3,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 1
+        },
+        {
+          "id": 4,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 1
+        },
+        {
+          "id": 5,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 2
+        },
+        {
+          "id": 6,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 2
+        },
+        {
+          "id": 12,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 2
+        },
+        {
+          "id": 7,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 2
+        },
+        {
+          "id": 13,
+          "exercise_type": "fill_in_the_blank",
+          "exercise_id": 3
+        },
+        {
+          "id": 8,
+          "exercise_type": "sentence_translate_target_to_english",
+          "exercise_id": 3
+        },
+        {
+          "id": 9,
+          "exercise_type": "sentence_translate_english_to_target",
+          "exercise_id": 3
+        },
+        {
+          "id": 10,
+          "exercise_type": "listen_and_choose",
+          "exercise_id": 3
+        }
+      ]
+    }
+  ]
+}

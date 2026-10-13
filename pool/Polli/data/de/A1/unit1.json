@@ -1,0 +1,633 @@
+{
+  "language": "de",
+  "level": "A1",
+  "unit": 1,
+  "title": "Greetings and Introductions",
+  "contents": [
+    {
+      "id": 1,
+      "content_type": "introduction",
+      "description_word": "Practice the key vocabulary for this lesson.",
+      "description_sentence": "Build confidence with realistic everyday phrases and sentence patterns.",
+      "description_dialogue": "",
+      "contents": []
+    },
+    {
+      "id": 2,
+      "content_type": "words",
+      "description": "(Try repeating these words after the audio to practice your pronunciation.)",
+      "contents": [
+        {
+          "id": 1,
+          "word": "Hallo",
+          "translation": "Hello"
+        },
+        {
+          "id": 2,
+          "word": "Guten Morgen",
+          "translation": "Good morning"
+        },
+        {
+          "id": 3,
+          "word": "Danke",
+          "translation": "Thank you"
+        },
+        {
+          "id": 4,
+          "word": "Bitte",
+          "translation": "Please / You’re welcome"
+        },
+        {
+          "id": 5,
+          "word": "Name",
+          "translation": "Name"
+        },
+        {
+          "id": 6,
+          "word": "heißen",
+          "translation": "to be called"
+        },
+        {
+          "id": 7,
+          "word": "Freund",
+          "translation": "male friend"
+        },
+        {
+          "id": 8,
+          "word": "Freundin",
+          "translation": "female friend"
+        },
+        {
+          "id": 9,
+          "word": "treffen",
+          "translation": "to meet"
+        },
+        {
+          "id": 10,
+          "word": "Willkommen",
+          "translation": "Welcome"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "content_type": "word_content",
+      "contents": [
+        {
+          "id": 1,
+          "words": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": 2,
+          "words": [
+            3,
+            4
+          ]
+        },
+        {
+          "id": 3,
+          "words": [
+            5,
+            6
+          ]
+        },
+        {
+          "id": 4,
+          "words": [
+            7,
+            8
+          ]
+        },
+        {
+          "id": 5,
+          "words": [
+            5
+          ]
+        },
+        {
+          "id": 6,
+          "words": [
+            6
+          ]
+        },
+        {
+          "id": 7,
+          "words": [
+            7
+          ]
+        },
+        {
+          "id": 8,
+          "words": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "content_type": "matching_exercises",
+      "description": "Match the words with their English translations.",
+      "exercises": [
+        {
+          "id": 1,
+          "question_words": [
+            3,
+            4,
+            5
+          ],
+          "answer_words": [
+            5,
+            4,
+            3
+          ]
+        },
+        {
+          "id": 2,
+          "question_words": [
+            5,
+            6,
+            7
+          ],
+          "answer_words": [
+            7,
+            6,
+            5
+          ]
+        },
+        {
+          "id": 3,
+          "question_words": [
+            7,
+            8,
+            9
+          ],
+          "answer_words": [
+            9,
+            8,
+            7
+          ]
+        },
+        {
+          "id": 4,
+          "question_words": [
+            9,
+            10,
+            1
+          ],
+          "answer_words": [
+            1,
+            10,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "content_type": "mcq_translation_exercises",
+      "description": "Choose the correct translation for the given word.",
+      "exercises": [
+        {
+          "id": 1,
+          "question_word": 1,
+          "options": [
+            1,
+            4,
+            7,
+            9
+          ]
+        },
+        {
+          "id": 2,
+          "question_word": 2,
+          "options": [
+            2,
+            5,
+            8,
+            10
+          ]
+        },
+        {
+          "id": 3,
+          "question_word": 3,
+          "options": [
+            3,
+            6,
+            9,
+            1
+          ]
+        },
+        {
+          "id": 4,
+          "question_word": 4,
+          "options": [
+            4,
+            7,
+            10,
+            2
+          ]
+        },
+        {
+          "id": 5,
+          "question_word": 5,
+          "options": [
+            5,
+            8,
+            1,
+            3
+          ]
+        },
+        {
+          "id": 6,
+          "question_word": 6,
+          "options": [
+            6,
+            9,
+            2,
+            4
+          ]
+        },
+        {
+          "id": 7,
+          "question_word": 7,
+          "options": [
+            7,
+            10,
+            3,
+            5
+          ]
+        },
+        {
+          "id": 8,
+          "question_word": 8,
+          "options": [
+            8,
+            1,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "content_type": "sentence_translate_target_to_english",
+      "description": "Translate the following sentences from the target language to English.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Ich heiße Anna.",
+          "options": [
+            "My",
+            "I",
+            "name",
+            "is",
+            "Anna",
+            "called"
+          ],
+          "meanings": {
+            "Ich": "I",
+            "heiße": "am called",
+            "Anna": "Anna"
+          },
+          "correct_order": [
+            "My",
+            "name",
+            "is",
+            "Anna"
+          ]
+        },
+        {
+          "id": 2,
+          "sentence": "Wie heißt du?",
+          "options": [
+            "What",
+            "is",
+            "your",
+            "name",
+            "you",
+            "How",
+            "called"
+          ],
+          "meanings": {
+            "Wie": "How",
+            "heißt": "is called",
+            "du": "you"
+          },
+          "correct_order": [
+            "What",
+            "is",
+            "your",
+            "name"
+          ]
+        },
+        {
+          "id": 3,
+          "sentence": "Ich stelle mich vor.",
+          "options": [
+            "I",
+            "introduce",
+            "myself",
+            "you",
+            "meet",
+            "name",
+            "am"
+          ],
+          "meanings": {
+            "Ich": "I",
+            "stelle": "introduce",
+            "mich": "myself"
+          },
+          "correct_order": [
+            "I",
+            "introduce",
+            "myself"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "content_type": "sentence_translate_english_to_target",
+      "description": "Translate the following sentences from English to the target language.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "My name is Anna.",
+          "options": [
+            "Mein",
+            "Name",
+            "ist",
+            "Anna",
+            "Ich",
+            "heiße",
+            "Guten",
+            "Tag"
+          ],
+          "meanings": {
+            "Mein": "My",
+            "Name": "Name",
+            "ist": "is",
+            "Anna": "Anna"
+          },
+          "correct_order": [
+            "Mein",
+            "Name",
+            "ist",
+            "Anna"
+          ]
+        },
+        {
+          "id": 2,
+          "sentence": "What is your name?",
+          "options": [
+            "Wie",
+            "heißt",
+            "du",
+            "dein",
+            "Name",
+            "ist",
+            "Ich",
+            "heiße"
+          ],
+          "meanings": {
+            "Wie": "How",
+            "heißt": "is called",
+            "du": "you",
+            "dein": "your",
+            "Name": "name"
+          },
+          "correct_order": [
+            "Wie",
+            "heißt",
+            "du"
+          ]
+        },
+        {
+          "id": 3,
+          "sentence": "I introduce myself.",
+          "options": [
+            "Ich",
+            "stelle",
+            "mich",
+            "vor",
+            "heiße",
+            "Name",
+            "treffe",
+            "Freund"
+          ],
+          "meanings": {
+            "Ich": "I",
+            "stelle": "introduce",
+            "mich": "myself",
+            "vor": "forward"
+          },
+          "correct_order": [
+            "Ich",
+            "stelle",
+            "mich",
+            "vor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "content_type": "listen_and_choose",
+      "description": "Listen to the audio and choose the correct word order.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Guten Tag, mein Name ist Anna.",
+          "options": [
+            "Guten",
+            "Tag",
+            "mein",
+            "Name",
+            "nein",
+            "ist",
+            "Anna",
+            "Gute"
+          ],
+          "correct_order": [
+            "Guten",
+            "Tag",
+            "mein",
+            "Name",
+            "ist",
+            "Anna"
+          ],
+          "meaning": "Hello, my name is Anna."
+        },
+        {
+          "id": 2,
+          "sentence": "Ich treffe einen Freund.",
+          "options": [
+            "Ich",
+            "treffe",
+            "einen",
+            "Freund",
+            "Freundin",
+            "heiße",
+            "Name",
+            "danke"
+          ],
+          "correct_order": [
+            "Ich",
+            "treffe",
+            "einen",
+            "Freund"
+          ],
+          "meaning": "I meet a male friend."
+        },
+        {
+          "id": 3,
+          "sentence": "Ich treffe eine Freundin.",
+          "options": [
+            "Ich",
+            "treffe",
+            "eine",
+            "Freundin",
+            "Freund",
+            "stelle",
+            "mich",
+            "vor"
+          ],
+          "correct_order": [
+            "Ich",
+            "treffe",
+            "eine",
+            "Freundin"
+          ],
+          "meaning": "I meet a female friend."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "content_type": "fill_in_the_blank",
+      "description": "Fill in the blanks with the correct words to complete the sentences.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Hallo, mein Name ist _____.",
+          "options": [
+            "Anna",
+            "Guten",
+            "Tag",
+            "Freund"
+          ],
+          "correct_answer": "Anna",
+          "meaning": "Hello, my name is Anna."
+        },
+        {
+          "id": 2,
+          "sentence": "Wie heißt _____?",
+          "options": [
+            "du",
+            "ich",
+            "mein",
+            "Name"
+          ],
+          "correct_answer": "du",
+          "meaning": "What is your name?"
+        },
+        {
+          "id": 3,
+          "sentence": "Ich treffe einen _____.",
+          "options": [
+            "Freund",
+            "Freundin",
+            "Name",
+            "heiße"
+          ],
+          "correct_answer": "Freund",
+          "meaning": "I meet a male friend."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "content_type": "dialogue",
+      "description": "Practice a real conversation by choosing the correct response.",
+      "exercises": [
+        {
+          "id": 1,
+          "dialogue": "Hallo! Wie heißt du?",
+          "dialogue_translation": "Hello! What is your name?",
+          "options": [
+            "Ich heiße Anna.",
+            "Guten Tag!",
+            "Auf Wiedersehen!"
+          ],
+          "correct_answer": "Ich heiße Anna.",
+          "meaning": "My name is Anna."
+        },
+        {
+          "id": 2,
+          "dialogue": "Guten Morgen! Wie heißt du?",
+          "dialogue_translation": "Good morning! What is your name?",
+          "options": [
+            "Ich heiße Paul.",
+            "Gute Nacht!",
+            "Danke!"
+          ],
+          "correct_answer": "Ich heiße Paul.",
+          "meaning": "My name is Paul."
+        },
+        {
+          "id": 3,
+          "dialogue": "Guten Tag! Wie heißen Sie?",
+          "dialogue_translation": "Good day! What is your name? (formal)",
+          "options": [
+            "Ich heiße Anna.",
+            "Tschüss!",
+            "Nein, danke."
+          ],
+          "correct_answer": "Ich heiße Anna.",
+          "meaning": "My name is Anna."
+        },
+        {
+          "id": 4,
+          "dialogue": "Hallo, ich heiße Anna. Wie heißt du?",
+          "dialogue_translation": "Hello, my name is Anna. What is your name?",
+          "options": [
+            "Ich heiße Paul.",
+            "Guten Abend!",
+            "Auf Wiedersehen!"
+          ],
+          "correct_answer": "Ich heiße Paul.",
+          "meaning": "My name is Paul."
+        },
+        {
+          "id": 5,
+          "dialogue": "Schön, dich zu treffen!",
+          "dialogue_translation": "Nice to meet you!",
+          "options": [
+            "Schön, dich zu treffen!",
+            "Gute Nacht!",
+            "Nein, danke!"
+          ],
+          "correct_answer": "Schön, dich zu treffen!",
+          "meaning": "Nice to meet you too."
+        },
+        {
+          "id": 6,
+          "dialogue": "Danke!",
+          "dialogue_translation": "Thank you!",
+          "options": [
+            "Bitte!",
+            "Guten Morgen!",
+            "Auf Wiedersehen!"
+          ],
+          "correct_answer": "Bitte!",
+          "meaning": "You’re welcome."
+        }
+      ]
+    }
+  ]
+}

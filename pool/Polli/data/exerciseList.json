@@ -1,0 +1,305 @@
+{
+  "exercises": [
+    {
+      "id": 1,
+      "level": "A1",
+      "title": "Absolute Beginner",
+      "units": [
+        {
+          "id": 1,
+          "title": "Greetings and Introductions",
+          "description": "Basic greetings, names and introductions",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 2,
+          "title": "Talking About Yourself",
+          "description": "Basic personal information and hobbies",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 3,
+          "title": "Numbers, Time and Dates",
+          "description": "Numbers, age, time and dates",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 4,
+          "title": "Basic Food and Drinks",
+          "description": "Common food, drinks and simple orders",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 5,
+          "title": "Basic Shopping",
+          "description": "Buying simple items and asking prices",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 6,
+          "title": "Basic Directions",
+          "description": "Understanding simple directions and locations",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 7,
+          "title": "Making Basic Requests",
+          "description": "Making simple requests and responding politely",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "A2",
+      "title": "Beginner",
+      "units": [
+        {
+          "id": 1,
+          "title": "Shopping",
+          "description": "Sizes, colors, prices and preferences",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 2,
+          "title": "Dining at a Restaurant",
+          "description": "Ordering food and asking for the bill",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 3,
+          "title": "Asking for Directions",
+          "description": "Asking for and giving directions",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 4,
+          "title": "Using Public Transport",
+          "description": "Tickets, destinations and schedules",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 5,
+          "title": "Checking Into a Hotel",
+          "description": "Reservations, rooms and basic requests",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 6,
+          "title": "Making a Phone Call",
+          "description": "Basic telephone conversations",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 7,
+          "title": "Making Plans",
+          "description": "Arranging activities, dates and times",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "A3",
+      "title": "Elementary",
+      "units": [
+        {
+          "id": 1,
+          "title": "At the Airport",
+          "description": "Check-in, boarding and travel questions",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 2,
+          "title": "Visiting a Doctor",
+          "description": "Describing common symptoms and needs",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 3,
+          "title": "Hotel Problems",
+          "description": "Reporting problems and requesting solutions",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 4,
+          "title": "Returning an Item",
+          "description": "Explaining problems and requesting exchanges",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 5,
+          "title": "Customer Service",
+          "description": "Explaining simple service and product problems",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 6,
+          "title": "Social Conversations",
+          "description": "Talking about experiences, interests and activities",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "B1",
+      "title": "Intermediate",
+      "units": [
+        {
+          "id": 1,
+          "title": "Job Interview",
+          "description": "Discussing experience, skills and goals",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 2,
+          "title": "Workplace Communication",
+          "description": "Discussing tasks, plans and responsibilities",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 3,
+          "title": "Making a Complaint",
+          "description": "Explaining problems and requesting solutions",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 4,
+          "title": "Giving Opinions",
+          "description": "Expressing and explaining personal opinions",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 5,
+          "title": "Making Decisions",
+          "description": "Discussing choices and comparing alternatives",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 6,
+          "title": "Telling Stories",
+          "description": "Describing experiences and events",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "B2",
+      "title": "Upper Intermediate",
+      "units": [
+        {
+          "id": 1,
+          "title": "Professional Meetings",
+          "description": "Discussing ideas, plans and decisions",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 2,
+          "title": "Negotiation",
+          "description": "Making offers, compromises and agreements",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 3,
+          "title": "Debate and Discussion",
+          "description": "Supporting and challenging opinions",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 4,
+          "title": "Public Speaking",
+          "description": "Presenting ideas clearly and confidently",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 5,
+          "title": "Workplace Conflict",
+          "description": "Handling disagreements and finding solutions",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 6,
+          "title": "Discussing Current Issues",
+          "description": "Discussing complex topics and viewpoints",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "level": "C1",
+      "title": "Advanced",
+      "units": [
+        {
+          "id": 1,
+          "title": "Advanced Negotiation",
+          "description": "Persuasion, compromise and strategic communication",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 2,
+          "title": "Professional Presentation",
+          "description": "Delivering detailed and persuasive presentations",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 3,
+          "title": "Formal Debate",
+          "description": "Developing complex arguments and rebuttals",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 4,
+          "title": "Diplomatic Communication",
+          "description": "Using indirect, careful and culturally appropriate language",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 5,
+          "title": "Ethical Discussions",
+          "description": "Discussing complex issues and defending positions",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "level": "C2",
+      "title": "Proficient",
+      "units": [
+        {
+          "id": 1,
+          "title": "Complex Debates",
+          "description": "Expressing nuanced arguments and counterarguments",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 2,
+          "title": "High-Level Negotiation",
+          "description": "Handling sophisticated negotiation and persuasion",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 3,
+          "title": "Critical Discussion",
+          "description": "Analyzing complex ideas and perspectives",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 4,
+          "title": "Cultural Communication",
+          "description": "Understanding nuance, idioms and cultural context",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        },
+        {
+          "id": 5,
+          "title": "Unexpected Conversations",
+          "description": "Handling unfamiliar topics naturally and spontaneously",
+          "exercises": ["Word Mode", "Sentence Mode", "Dialogue Mode"]
+        }
+      ]
+    }
+  ]
+}

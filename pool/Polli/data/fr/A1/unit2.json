@@ -1,0 +1,617 @@
+{
+  "language": "fr",
+  "level": "A1",
+  "unit": 2,
+  "title": "Talking About Yourself",
+  "contents": [
+    {
+      "id": 1,
+      "content_type": "introduction",
+      "description_word": "Practice the key vocabulary for this lesson.",
+      "description_sentence": "Build confidence with realistic everyday phrases and sentence patterns.",
+      "description_dialogue": "",
+      "contents": []
+    },
+    {
+      "id": 2,
+      "content_type": "words",
+      "description": "(Try repeating these words after the audio to practice your pronunciation.)",
+      "contents": [
+        {
+          "id": 1,
+          "word": "je",
+          "translation": "I"
+        },
+        {
+          "id": 2,
+          "word": "tu",
+          "translation": "you"
+        },
+        {
+          "id": 3,
+          "word": "habiter",
+          "translation": "to live"
+        },
+        {
+          "id": 4,
+          "word": "travailler",
+          "translation": "to work"
+        },
+        {
+          "id": 5,
+          "word": "apprendre",
+          "translation": "to study"
+        },
+        {
+          "id": 6,
+          "word": "école",
+          "translation": "school"
+        },
+        {
+          "id": 7,
+          "word": "loisirs",
+          "translation": "hobbies"
+        },
+        {
+          "id": 8,
+          "word": "famille",
+          "translation": "family"
+        },
+        {
+          "id": 9,
+          "word": "ami",
+          "translation": "friend"
+        },
+        {
+          "id": 10,
+          "word": "amie",
+          "translation": "friend (female)"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "content_type": "word_content",
+      "contents": [
+        {
+          "id": 1,
+          "words": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": 2,
+          "words": [
+            3,
+            4
+          ]
+        },
+        {
+          "id": 3,
+          "words": [
+            5,
+            6
+          ]
+        },
+        {
+          "id": 4,
+          "words": [
+            7,
+            8
+          ]
+        },
+        {
+          "id": 5,
+          "words": [
+            5
+          ]
+        },
+        {
+          "id": 6,
+          "words": [
+            6
+          ]
+        },
+        {
+          "id": 7,
+          "words": [
+            7
+          ]
+        },
+        {
+          "id": 8,
+          "words": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "content_type": "matching_exercises",
+      "description": "Match the words with their English translations.",
+      "exercises": [
+        {
+          "id": 1,
+          "question_words": [
+            3,
+            4,
+            5
+          ],
+          "answer_words": [
+            5,
+            4,
+            3
+          ]
+        },
+        {
+          "id": 2,
+          "question_words": [
+            5,
+            6,
+            7
+          ],
+          "answer_words": [
+            7,
+            6,
+            5
+          ]
+        },
+        {
+          "id": 3,
+          "question_words": [
+            7,
+            8,
+            9
+          ],
+          "answer_words": [
+            9,
+            8,
+            7
+          ]
+        },
+        {
+          "id": 4,
+          "question_words": [
+            9,
+            10,
+            1
+          ],
+          "answer_words": [
+            1,
+            10,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "content_type": "mcq_translation_exercises",
+      "description": "Choose the correct translation for the given word.",
+      "exercises": [
+        {
+          "id": 1,
+          "question_word": 1,
+          "options": [
+            1,
+            4,
+            7,
+            9
+          ]
+        },
+        {
+          "id": 2,
+          "question_word": 2,
+          "options": [
+            2,
+            5,
+            8,
+            10
+          ]
+        },
+        {
+          "id": 3,
+          "question_word": 3,
+          "options": [
+            3,
+            6,
+            9,
+            1
+          ]
+        },
+        {
+          "id": 4,
+          "question_word": 4,
+          "options": [
+            4,
+            7,
+            10,
+            2
+          ]
+        },
+        {
+          "id": 5,
+          "question_word": 5,
+          "options": [
+            5,
+            8,
+            1,
+            3
+          ]
+        },
+        {
+          "id": 6,
+          "question_word": 6,
+          "options": [
+            6,
+            9,
+            2,
+            4
+          ]
+        },
+        {
+          "id": 7,
+          "question_word": 7,
+          "options": [
+            7,
+            10,
+            3,
+            5
+          ]
+        },
+        {
+          "id": 8,
+          "question_word": 8,
+          "options": [
+            8,
+            1,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "content_type": "sentence_translate_target_to_english",
+      "description": "Translate the following sentences from the target language to English.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "J’habite à Paris.",
+          "options": [
+            "I",
+            "live",
+            "in",
+            "Paris",
+            "school",
+            "happy"
+          ],
+          "meanings": {
+            "J’": "I",
+            "habite": "live",
+            "à": "in",
+            "Paris": "Paris"
+          },
+          "correct_order": [
+            "I",
+            "live",
+            "in",
+            "Paris"
+          ]
+        },
+        {
+          "id": 2,
+          "sentence": "Je travaille et j’apprends.",
+          "options": [
+            "I",
+            "work",
+            "and",
+            "study",
+            "school",
+            "family"
+          ],
+          "meanings": {
+            "Je": "I",
+            "travaille": "work",
+            "j’apprends": "study"
+          },
+          "correct_order": [
+            "I",
+            "work",
+            "and",
+            "study"
+          ]
+        },
+        {
+          "id": 3,
+          "sentence": "Ma famille est grande.",
+          "options": [
+            "My",
+            "family",
+            "is",
+            "big",
+            "school",
+            "friend"
+          ],
+          "meanings": {
+            "Ma": "My",
+            "famille": "family",
+            "est": "is",
+            "grande": "big"
+          },
+          "correct_order": [
+            "My",
+            "family",
+            "is",
+            "big"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "content_type": "sentence_translate_english_to_target",
+      "description": "Translate the following sentences from English to the target language.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "I live in Paris.",
+          "options": [
+            "J’habite",
+            "à",
+            "Paris",
+            "école",
+            "amis",
+            "travailler"
+          ],
+          "meanings": {
+            "J’habite": "I live",
+            "à": "in",
+            "Paris": "Paris"
+          },
+          "correct_order": [
+            "J’habite",
+            "à",
+            "Paris"
+          ]
+        },
+        {
+          "id": 2,
+          "sentence": "I work and study.",
+          "options": [
+            "Je",
+            "travaille",
+            "et",
+            "j’apprends",
+            "famille",
+            "école"
+          ],
+          "meanings": {
+            "Je": "I",
+            "travaille": "work",
+            "et": "and",
+            "j’apprends": "study"
+          },
+          "correct_order": [
+            "Je",
+            "travaille",
+            "et",
+            "j’apprends"
+          ]
+        },
+        {
+          "id": 3,
+          "sentence": "My family is big.",
+          "options": [
+            "Ma",
+            "famille",
+            "est",
+            "grande",
+            "école",
+            "ami"
+          ],
+          "meanings": {
+            "Ma": "My",
+            "famille": "family",
+            "est": "is",
+            "grande": "big"
+          },
+          "correct_order": [
+            "Ma",
+            "famille",
+            "est",
+            "grande"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "content_type": "listen_and_choose",
+      "description": "Listen to the audio and choose the correct word order.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "J’habite à Paris.",
+          "options": [
+            "J’habite",
+            "à",
+            "Paris",
+            "école",
+            "ami",
+            "famille"
+          ],
+          "correct_order": [
+            "J’habite",
+            "à",
+            "Paris"
+          ],
+          "meaning": "I live in Paris."
+        },
+        {
+          "id": 2,
+          "sentence": "Je travaille et j’apprends.",
+          "options": [
+            "Je",
+            "travaille",
+            "et",
+            "j’apprends",
+            "famille",
+            "école"
+          ],
+          "correct_order": [
+            "Je",
+            "travaille",
+            "et",
+            "j’apprends"
+          ],
+          "meaning": "I work and study."
+        },
+        {
+          "id": 3,
+          "sentence": "Ma famille est grande.",
+          "options": [
+            "Ma",
+            "famille",
+            "est",
+            "grande",
+            "école",
+            "ami"
+          ],
+          "correct_order": [
+            "Ma",
+            "famille",
+            "est",
+            "grande"
+          ],
+          "meaning": "My family is big."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "content_type": "fill_in_the_blank",
+      "description": "Fill in the blanks with the correct words to complete the sentences.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "J’_____ à Paris.",
+          "options": [
+            "habite",
+            "travaille",
+            "apprends",
+            "famille"
+          ],
+          "correct_answer": "habite",
+          "meaning": "I live in Paris."
+        },
+        {
+          "id": 2,
+          "sentence": "Ma _____ est grande.",
+          "options": [
+            "famille",
+            "école",
+            "ami",
+            "loisirs"
+          ],
+          "correct_answer": "famille",
+          "meaning": "My family is big."
+        },
+        {
+          "id": 3,
+          "sentence": "Je _____ et j’apprends.",
+          "options": [
+            "travaille",
+            "mange",
+            "parle",
+            "école"
+          ],
+          "correct_answer": "travaille",
+          "meaning": "I work and study."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "content_type": "dialogue",
+      "description": "Practice a real conversation by choosing the correct response.",
+      "exercises": [
+        {
+          "id": 1,
+          "dialogue": "Où habites-tu ?",
+          "dialogue_translation": "Where do you live?",
+          "options": [
+            "J’habite à Paris.",
+            "Je suis fatigué.",
+            "Merci !"
+          ],
+          "correct_answer": "J’habite à Paris.",
+          "meaning": "I live in Paris."
+        },
+        {
+          "id": 2,
+          "dialogue": "Que fais-tu ?",
+          "dialogue_translation": "What are you doing?",
+          "options": [
+            "Je travaille et j’apprends.",
+            "Bonne nuit !",
+            "Au revoir !"
+          ],
+          "correct_answer": "Je travaille et j’apprends.",
+          "meaning": "I work and study."
+        },
+        {
+          "id": 3,
+          "dialogue": "As-tu des loisirs ?",
+          "dialogue_translation": "Do you have hobbies?",
+          "options": [
+            "Oui, j’aime lire.",
+            "Bonjour !",
+            "Merci !"
+          ],
+          "correct_answer": "Oui, j’aime lire.",
+          "meaning": "Yes, I like reading."
+        },
+        {
+          "id": 4,
+          "dialogue": "Comment est ta famille ?",
+          "dialogue_translation": "How is your family?",
+          "options": [
+            "Ma famille est grande.",
+            "Je m’appelle Anna.",
+            "Je suis content."
+          ],
+          "correct_answer": "Ma famille est grande.",
+          "meaning": "My family is big."
+        },
+        {
+          "id": 5,
+          "dialogue": "Tu travailles ?",
+          "dialogue_translation": "Do you work?",
+          "options": [
+            "Oui, je travaille à la ville.",
+            "Non, merci.",
+            "Bonne journée !"
+          ],
+          "correct_answer": "Oui, je travaille à la ville.",
+          "meaning": "Yes, I work in the city."
+        },
+        {
+          "id": 6,
+          "dialogue": "Quel est ton loisir ?",
+          "dialogue_translation": "What is your hobby?",
+          "options": [
+            "J’aime jouer au football.",
+            "Bonsoir !",
+            "S’il vous plaît."
+          ],
+          "correct_answer": "J’aime jouer au football.",
+          "meaning": "I like playing football."
+        }
+      ]
+    }
+  ]
+}

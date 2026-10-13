@@ -1,0 +1,615 @@
+{
+  "language": "de",
+  "level": "A1",
+  "unit": 6,
+  "title": "Basic Directions",
+  "contents": [
+    {
+      "id": 1,
+      "content_type": "introduction",
+      "description_word": "Practice the key vocabulary for this lesson.",
+      "description_sentence": "Build confidence with realistic everyday phrases and sentence patterns.",
+      "description_dialogue": "",
+      "contents": []
+    },
+    {
+      "id": 2,
+      "content_type": "words",
+      "description": "(Try repeating these words after the audio to practice your pronunciation.)",
+      "contents": [
+        {
+          "id": 1,
+          "word": "links",
+          "translation": "left"
+        },
+        {
+          "id": 2,
+          "word": "rechts",
+          "translation": "right"
+        },
+        {
+          "id": 3,
+          "word": "geradeaus",
+          "translation": "straight ahead"
+        },
+        {
+          "id": 4,
+          "word": "Bahnhof",
+          "translation": "train station"
+        },
+        {
+          "id": 5,
+          "word": "Museum",
+          "translation": "museum"
+        },
+        {
+          "id": 6,
+          "word": "Supermarkt",
+          "translation": "supermarket"
+        },
+        {
+          "id": 7,
+          "word": "Straße",
+          "translation": "street"
+        },
+        {
+          "id": 8,
+          "word": "Ort",
+          "translation": "place"
+        },
+        {
+          "id": 9,
+          "word": "finden",
+          "translation": "to find"
+        },
+        {
+          "id": 10,
+          "word": "wo",
+          "translation": "where"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "content_type": "word_content",
+      "contents": [
+        {
+          "id": 1,
+          "words": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": 2,
+          "words": [
+            3,
+            4
+          ]
+        },
+        {
+          "id": 3,
+          "words": [
+            5,
+            6
+          ]
+        },
+        {
+          "id": 4,
+          "words": [
+            7,
+            8
+          ]
+        },
+        {
+          "id": 5,
+          "words": [
+            5
+          ]
+        },
+        {
+          "id": 6,
+          "words": [
+            6
+          ]
+        },
+        {
+          "id": 7,
+          "words": [
+            7
+          ]
+        },
+        {
+          "id": 8,
+          "words": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "content_type": "matching_exercises",
+      "description": "Match the words with their English translations.",
+      "exercises": [
+        {
+          "id": 1,
+          "question_words": [
+            3,
+            4,
+            5
+          ],
+          "answer_words": [
+            5,
+            4,
+            3
+          ]
+        },
+        {
+          "id": 2,
+          "question_words": [
+            5,
+            6,
+            7
+          ],
+          "answer_words": [
+            7,
+            6,
+            5
+          ]
+        },
+        {
+          "id": 3,
+          "question_words": [
+            7,
+            8,
+            9
+          ],
+          "answer_words": [
+            9,
+            8,
+            7
+          ]
+        },
+        {
+          "id": 4,
+          "question_words": [
+            9,
+            10,
+            1
+          ],
+          "answer_words": [
+            1,
+            10,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "content_type": "mcq_translation_exercises",
+      "description": "Choose the correct translation for the given word.",
+      "exercises": [
+        {
+          "id": 1,
+          "question_word": 1,
+          "options": [
+            1,
+            4,
+            7,
+            9
+          ]
+        },
+        {
+          "id": 2,
+          "question_word": 2,
+          "options": [
+            2,
+            5,
+            8,
+            10
+          ]
+        },
+        {
+          "id": 3,
+          "question_word": 3,
+          "options": [
+            3,
+            6,
+            9,
+            1
+          ]
+        },
+        {
+          "id": 4,
+          "question_word": 4,
+          "options": [
+            4,
+            7,
+            10,
+            2
+          ]
+        },
+        {
+          "id": 5,
+          "question_word": 5,
+          "options": [
+            5,
+            8,
+            1,
+            3
+          ]
+        },
+        {
+          "id": 6,
+          "question_word": 6,
+          "options": [
+            6,
+            9,
+            2,
+            4
+          ]
+        },
+        {
+          "id": 7,
+          "question_word": 7,
+          "options": [
+            7,
+            10,
+            3,
+            5
+          ]
+        },
+        {
+          "id": 8,
+          "question_word": 8,
+          "options": [
+            8,
+            1,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "content_type": "sentence_translate_target_to_english",
+      "description": "Translate the following sentences from the target language to English.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Gehen Sie links.",
+          "options": [
+            "Go",
+            "left",
+            "right",
+            "street",
+            "museum",
+            "home"
+          ],
+          "meanings": {
+            "Gehen": "Go",
+            "Sie": "you",
+            "links": "left"
+          },
+          "correct_order": [
+            "Go",
+            "left"
+          ]
+        },
+        {
+          "id": 2,
+          "sentence": "Der Bahnhof ist dort.",
+          "options": [
+            "The",
+            "station",
+            "is",
+            "there",
+            "right",
+            "museum"
+          ],
+          "meanings": {
+            "Der": "The",
+            "Bahnhof": "station",
+            "ist": "is",
+            "dort": "there"
+          },
+          "correct_order": [
+            "The",
+            "station",
+            "is",
+            "there"
+          ]
+        },
+        {
+          "id": 3,
+          "sentence": "Wo ist das Museum?",
+          "options": [
+            "Where",
+            "is",
+            "the",
+            "museum",
+            "shop",
+            "home"
+          ],
+          "meanings": {
+            "Wo": "Where",
+            "ist": "is",
+            "das": "the",
+            "Museum": "museum"
+          },
+          "correct_order": [
+            "Where",
+            "is",
+            "the",
+            "museum"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "content_type": "sentence_translate_english_to_target",
+      "description": "Translate the following sentences from English to the target language.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Go left.",
+          "options": [
+            "Gehen",
+            "Sie",
+            "links",
+            "rechts",
+            "Bahnhof",
+            "Straße"
+          ],
+          "meanings": {
+            "Gehen": "Go",
+            "Sie": "you",
+            "links": "left"
+          },
+          "correct_order": [
+            "Gehen",
+            "Sie",
+            "links"
+          ]
+        },
+        {
+          "id": 2,
+          "sentence": "The station is there.",
+          "options": [
+            "Der",
+            "Bahnhof",
+            "ist",
+            "dort",
+            "Museum",
+            "Straße"
+          ],
+          "meanings": {
+            "Der": "The",
+            "Bahnhof": "station",
+            "ist": "is",
+            "dort": "there"
+          },
+          "correct_order": [
+            "Der",
+            "Bahnhof",
+            "ist",
+            "dort"
+          ]
+        },
+        {
+          "id": 3,
+          "sentence": "Where is the museum?",
+          "options": [
+            "Wo",
+            "ist",
+            "das",
+            "Museum",
+            "Bahnhof",
+            "Karte"
+          ],
+          "meanings": {
+            "Wo": "Where",
+            "ist": "is",
+            "das": "the",
+            "Museum": "museum"
+          },
+          "correct_order": [
+            "Wo",
+            "ist",
+            "das",
+            "Museum"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "content_type": "listen_and_choose",
+      "description": "Listen to the audio and choose the correct word order.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Gehen Sie links.",
+          "options": [
+            "Gehen",
+            "Sie",
+            "links",
+            "rechts",
+            "Straße",
+            "Museum"
+          ],
+          "correct_order": [
+            "Gehen",
+            "Sie",
+            "links"
+          ],
+          "meaning": "Go left."
+        },
+        {
+          "id": 2,
+          "sentence": "Der Bahnhof ist dort.",
+          "options": [
+            "Der",
+            "Bahnhof",
+            "ist",
+            "dort",
+            "rechts",
+            "Museum"
+          ],
+          "correct_order": [
+            "Der",
+            "Bahnhof",
+            "ist",
+            "dort"
+          ],
+          "meaning": "The station is there."
+        },
+        {
+          "id": 3,
+          "sentence": "Wo ist das Museum?",
+          "options": [
+            "Wo",
+            "ist",
+            "das",
+            "Museum",
+            "Bahnhof",
+            "Karte"
+          ],
+          "correct_order": [
+            "Wo",
+            "ist",
+            "das",
+            "Museum"
+          ],
+          "meaning": "Where is the museum?"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "content_type": "fill_in_the_blank",
+      "description": "Fill in the blanks with the correct words to complete the sentences.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Gehen Sie _____ .",
+          "options": [
+            "links",
+            "rechts",
+            "Brot",
+            "Karte"
+          ],
+          "correct_answer": "links",
+          "meaning": "Go left."
+        },
+        {
+          "id": 2,
+          "sentence": "Der _____ ist dort.",
+          "options": [
+            "Bahnhof",
+            "Museum",
+            "Preis",
+            "Tasche"
+          ],
+          "correct_answer": "Bahnhof",
+          "meaning": "The station is there."
+        },
+        {
+          "id": 3,
+          "sentence": "Wo ist das _____?",
+          "options": [
+            "Museum",
+            "Preis",
+            "Brot",
+            "Karte"
+          ],
+          "correct_answer": "Museum",
+          "meaning": "Where is the museum?"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "content_type": "dialogue",
+      "description": "Practice a real conversation by choosing the correct response.",
+      "exercises": [
+        {
+          "id": 1,
+          "dialogue": "Wo ist der Bahnhof?",
+          "dialogue_translation": "Where is the train station?",
+          "options": [
+            "Er ist rechts.",
+            "Ich bin müde.",
+            "Danke schön."
+          ],
+          "correct_answer": "Er ist rechts.",
+          "meaning": "It is on the right."
+        },
+        {
+          "id": 2,
+          "dialogue": "Wo finde ich das Museum?",
+          "dialogue_translation": "Where can I find the museum?",
+          "options": [
+            "Gehen Sie geradeaus.",
+            "Ich habe Hunger.",
+            "Bitte."
+          ],
+          "correct_answer": "Gehen Sie geradeaus.",
+          "meaning": "Go straight ahead."
+        },
+        {
+          "id": 3,
+          "dialogue": "Kannst du mir helfen?",
+          "dialogue_translation": "Can you help me?",
+          "options": [
+            "Ja, ich zeige dir den Weg.",
+            "Ich kaufe Brot.",
+            "Auf Wiedersehen!"
+          ],
+          "correct_answer": "Ja, ich zeige dir den Weg.",
+          "meaning": "Yes, I will show you the way."
+        },
+        {
+          "id": 4,
+          "dialogue": "Ist das der Supermarkt?",
+          "dialogue_translation": "Is that the supermarket?",
+          "options": [
+            "Ja, dort ist er.",
+            "Ich arbeite heute.",
+            "Guten Tag!"
+          ],
+          "correct_answer": "Ja, dort ist er.",
+          "meaning": "Yes, there it is."
+        },
+        {
+          "id": 5,
+          "dialogue": "Wie komme ich zur Schule?",
+          "dialogue_translation": "How do I get to school?",
+          "options": [
+            "Gehen Sie links und dann geradeaus.",
+            "Ich mag Tee.",
+            "Es ist fünf Uhr."
+          ],
+          "correct_answer": "Gehen Sie links und dann geradeaus.",
+          "meaning": "Go left and then straight ahead."
+        },
+        {
+          "id": 6,
+          "dialogue": "Wo ist die Straße?",
+          "dialogue_translation": "Where is the street?",
+          "options": [
+            "Dort, neben dem Bahnhof.",
+            "Ich trinke Wasser.",
+            "Danke!"
+          ],
+          "correct_answer": "Dort, neben dem Bahnhof.",
+          "meaning": "There, next to the station."
+        }
+      ]
+    }
+  ]
+}

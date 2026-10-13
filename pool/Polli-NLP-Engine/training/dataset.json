@@ -1,0 +1,33 @@
+[
+  { "text": "Go straight ahead until you reach the next intersection", "intent": "directions__give_navigation" },
+  { "text": "Is the museum within walking distance from this hotel", "intent": "directions__ask_distance" },
+  { "text": "Keep moving straight ahead and look for the main intersection", "intent": "directions__give_navigation" },
+  { "text": "Can you tell me if the subway station is a short walking distance", "intent": "directions__ask_distance" },
+  { "text": "Turn right at the upcoming intersection and it is straight ahead", "intent": "directions__give_navigation" },
+  { "text": "Excuse me how do I get to the tourist center from this intersection", "intent": "directions__ask_location" },
+  { "text": "Is the nearest coffee shop within comfortable walking distance", "intent": "directions__ask_distance" },
+  { "text": "Walk straight ahead for two blocks and you will see it", "intent": "directions__give_navigation" },
+  { "text": "Which way do I turn at the crossroad intersection", "intent": "directions__ask_location" },
+  { "text": "Is the marketplace far or is it just walking distance", "intent": "directions__ask_distance" },
+  { "text": "The hospital is located straight ahead past the final intersection", "intent": "directions__give_navigation" },
+  { "text": "How far is the train platform within walking distance", "intent": "directions__ask_distance" },
+
+  { "text": "I want to book a room for one night", "intent": "hotel__book_room" },
+  { "text": "Can I reserve a single suite please", "intent": "hotel__book_room" },
+  { "text": "I need a place to stay tonight at your hotel", "intent": "hotel__book_room" },
+  { "text": "I would like to make a lodging reservation for two people", "intent": "hotel__book_room" },
+  { "text": "How much does a single room cost tonight", "intent": "hotel__check_price" },
+  { "text": "What are your nightly room rates", "intent": "hotel__check_price" },
+  { "text": "What is the price per night for a deluxe room", "intent": "hotel__check_price" },
+  { "text": "How expensive is a weekend stay at this accommodation", "intent": "hotel__check_price" },
+  { "text": "I need to cancel my hotel room booking", "intent": "hotel__cancel_room" },
+  { "text": "Can I call off my reservation for tomorrow", "intent": "hotel__cancel_room" },
+  { "text": "I want a refund for the room I booked", "intent": "hotel__cancel_room" },
+  { "text": "Cancel the suite reservation under my name please", "intent": "hotel__cancel_room" },
+
+    { "text": "I would like to order a cheese pizza and coffee", "intent": "fallback__unknown" },
+  { "text": "What is the weather like outside today", "intent": "fallback__unknown" },
+  { "text": "Can you play some music or put on a movie", "intent": "fallback__unknown" },
+  { "text": "I want to buy a ticket for the rocket ship", "intent": "fallback__unknown" }
+
+]

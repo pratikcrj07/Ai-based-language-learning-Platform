@@ -1,0 +1,616 @@
+{
+  "language": "de",
+  "level": "A1",
+  "unit": 7,
+  "title": "Making Basic Requests",
+  "contents": [
+    {
+      "id": 1,
+      "content_type": "introduction",
+      "description_word": "Practice the key vocabulary for this lesson.",
+      "description_sentence": "Build confidence with realistic everyday phrases and sentence patterns.",
+      "description_dialogue": "",
+      "contents": []
+    },
+    {
+      "id": 2,
+      "content_type": "words",
+      "description": "(Try repeating these words after the audio to practice your pronunciation.)",
+      "contents": [
+        {
+          "id": 1,
+          "word": "können",
+          "translation": "can"
+        },
+        {
+          "id": 2,
+          "word": "bitte",
+          "translation": "please"
+        },
+        {
+          "id": 3,
+          "word": "fragen",
+          "translation": "to ask"
+        },
+        {
+          "id": 4,
+          "word": "helfen",
+          "translation": "to help"
+        },
+        {
+          "id": 5,
+          "word": "Rechnung",
+          "translation": "bill"
+        },
+        {
+          "id": 6,
+          "word": "Reservierung",
+          "translation": "reservation"
+        },
+        {
+          "id": 7,
+          "word": "schnell",
+          "translation": "quickly"
+        },
+        {
+          "id": 8,
+          "word": "langsam",
+          "translation": "slowly"
+        },
+        {
+          "id": 9,
+          "word": "Leute",
+          "translation": "people"
+        },
+        {
+          "id": 10,
+          "word": "Wasser",
+          "translation": "water"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "content_type": "word_content",
+      "contents": [
+        {
+          "id": 1,
+          "words": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": 2,
+          "words": [
+            3,
+            4
+          ]
+        },
+        {
+          "id": 3,
+          "words": [
+            5,
+            6
+          ]
+        },
+        {
+          "id": 4,
+          "words": [
+            7,
+            8
+          ]
+        },
+        {
+          "id": 5,
+          "words": [
+            5
+          ]
+        },
+        {
+          "id": 6,
+          "words": [
+            6
+          ]
+        },
+        {
+          "id": 7,
+          "words": [
+            7
+          ]
+        },
+        {
+          "id": 8,
+          "words": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "content_type": "matching_exercises",
+      "description": "Match the words with their English translations.",
+      "exercises": [
+        {
+          "id": 1,
+          "question_words": [
+            3,
+            4,
+            5
+          ],
+          "answer_words": [
+            5,
+            4,
+            3
+          ]
+        },
+        {
+          "id": 2,
+          "question_words": [
+            5,
+            6,
+            7
+          ],
+          "answer_words": [
+            7,
+            6,
+            5
+          ]
+        },
+        {
+          "id": 3,
+          "question_words": [
+            7,
+            8,
+            9
+          ],
+          "answer_words": [
+            9,
+            8,
+            7
+          ]
+        },
+        {
+          "id": 4,
+          "question_words": [
+            9,
+            10,
+            1
+          ],
+          "answer_words": [
+            1,
+            10,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "content_type": "mcq_translation_exercises",
+      "description": "Choose the correct translation for the given word.",
+      "exercises": [
+        {
+          "id": 1,
+          "question_word": 1,
+          "options": [
+            1,
+            4,
+            7,
+            9
+          ]
+        },
+        {
+          "id": 2,
+          "question_word": 2,
+          "options": [
+            2,
+            5,
+            8,
+            10
+          ]
+        },
+        {
+          "id": 3,
+          "question_word": 3,
+          "options": [
+            3,
+            6,
+            9,
+            1
+          ]
+        },
+        {
+          "id": 4,
+          "question_word": 4,
+          "options": [
+            4,
+            7,
+            10,
+            2
+          ]
+        },
+        {
+          "id": 5,
+          "question_word": 5,
+          "options": [
+            5,
+            8,
+            1,
+            3
+          ]
+        },
+        {
+          "id": 6,
+          "question_word": 6,
+          "options": [
+            6,
+            9,
+            2,
+            4
+          ]
+        },
+        {
+          "id": 7,
+          "question_word": 7,
+          "options": [
+            7,
+            10,
+            3,
+            5
+          ]
+        },
+        {
+          "id": 8,
+          "question_word": 8,
+          "options": [
+            8,
+            1,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "content_type": "sentence_translate_target_to_english",
+      "description": "Translate the following sentences from the target language to English.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Können Sie mir helfen?",
+          "options": [
+            "Can",
+            "you",
+            "help",
+            "me",
+            "please",
+            "today"
+          ],
+          "meanings": {
+            "Können": "Can",
+            "Sie": "you",
+            "helfen": "help",
+            "mir": "me"
+          },
+          "correct_order": [
+            "Can",
+            "you",
+            "help",
+            "me"
+          ]
+        },
+        {
+          "id": 2,
+          "sentence": "Ich hätte gern eine Reservierung.",
+          "options": [
+            "I",
+            "would",
+            "like",
+            "a",
+            "reservation",
+            "water"
+          ],
+          "meanings": {
+            "Ich": "I",
+            "hätte": "would",
+            "gern": "like",
+            "Reservierung": "reservation"
+          },
+          "correct_order": [
+            "I",
+            "would",
+            "like",
+            "a",
+            "reservation"
+          ]
+        },
+        {
+          "id": 3,
+          "sentence": "Bitte langsam, danke.",
+          "options": [
+            "Please",
+            "slowly",
+            "thank",
+            "you",
+            "help",
+            "food"
+          ],
+          "meanings": {
+            "Bitte": "please",
+            "langsam": "slowly"
+          },
+          "correct_order": [
+            "Please",
+            "slowly",
+            "thank",
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "content_type": "sentence_translate_english_to_target",
+      "description": "Translate the following sentences from English to the target language.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Can you help me?",
+          "options": [
+            "Können",
+            "Sie",
+            "mir",
+            "helfen",
+            "bitte",
+            "Wasser"
+          ],
+          "meanings": {
+            "Können": "Can",
+            "Sie": "you",
+            "helfen": "help",
+            "mir": "me"
+          },
+          "correct_order": [
+            "Können",
+            "Sie",
+            "mir",
+            "helfen"
+          ]
+        },
+        {
+          "id": 2,
+          "sentence": "I would like a reservation.",
+          "options": [
+            "Ich",
+            "hätte",
+            "gern",
+            "eine",
+            "Reservierung",
+            "Bitte"
+          ],
+          "meanings": {
+            "Ich": "I",
+            "hätte": "would",
+            "gern": "like",
+            "Reservierung": "reservation"
+          },
+          "correct_order": [
+            "Ich",
+            "hätte",
+            "gern",
+            "eine",
+            "Reservierung"
+          ]
+        },
+        {
+          "id": 3,
+          "sentence": "Please slowly, thank you.",
+          "options": [
+            "Bitte",
+            "langsam",
+            "danke",
+            "Wasser",
+            "Kaffee",
+            "Preis"
+          ],
+          "meanings": {
+            "Bitte": "please",
+            "langsam": "slowly",
+            "danke": "thank you"
+          },
+          "correct_order": [
+            "Bitte",
+            "langsam",
+            "danke"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "content_type": "listen_and_choose",
+      "description": "Listen to the audio and choose the correct word order.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Können Sie mir helfen?",
+          "options": [
+            "Können",
+            "Sie",
+            "mir",
+            "helfen",
+            "bitte",
+            "Wasser"
+          ],
+          "correct_order": [
+            "Können",
+            "Sie",
+            "mir",
+            "helfen"
+          ],
+          "meaning": "Can you help me?"
+        },
+        {
+          "id": 2,
+          "sentence": "Ich hätte gern eine Reservierung.",
+          "options": [
+            "Ich",
+            "hätte",
+            "gern",
+            "eine",
+            "Reservierung",
+            "Karte"
+          ],
+          "correct_order": [
+            "Ich",
+            "hätte",
+            "gern",
+            "eine",
+            "Reservierung"
+          ],
+          "meaning": "I would like a reservation."
+        },
+        {
+          "id": 3,
+          "sentence": "Bitte langsam.",
+          "options": [
+            "Bitte",
+            "langsam",
+            "danke",
+            "Preis"
+          ],
+          "correct_order": [
+            "Bitte",
+            "langsam"
+          ],
+          "meaning": "Please slowly."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "content_type": "fill_in_the_blank",
+      "description": "Fill in the blanks with the correct words to complete the sentences.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Können Sie mir _____?",
+          "options": [
+            "helfen",
+            "Wasser",
+            "Brot",
+            "Karte"
+          ],
+          "correct_answer": "helfen",
+          "meaning": "Can you help me?"
+        },
+        {
+          "id": 2,
+          "sentence": "Ich hätte gern eine _____.",
+          "options": [
+            "Reservierung",
+            "Tasche",
+            "Kasse",
+            "Straße"
+          ],
+          "correct_answer": "Reservierung",
+          "meaning": "I would like a reservation."
+        },
+        {
+          "id": 3,
+          "sentence": "Bitte _____ .",
+          "options": [
+            "langsam",
+            "Brot",
+            "Preis",
+            "Museum"
+          ],
+          "correct_answer": "langsam",
+          "meaning": "Please slowly."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "content_type": "dialogue",
+      "description": "Practice a real conversation by choosing the correct response.",
+      "exercises": [
+        {
+          "id": 1,
+          "dialogue": "Können Sie mir helfen?",
+          "dialogue_translation": "Can you help me?",
+          "options": [
+            "Ja, gern.",
+            "Ich wohne hier.",
+            "Tschüss!"
+          ],
+          "correct_answer": "Ja, gern.",
+          "meaning": "Yes, gladly."
+        },
+        {
+          "id": 2,
+          "dialogue": "Ich hätte gern eine Reservierung.",
+          "dialogue_translation": "I would like a reservation.",
+          "options": [
+            "Natürlich, wann?",
+            "Ich bin 22.",
+            "Danke sehr."
+          ],
+          "correct_answer": "Natürlich, wann?",
+          "meaning": "Of course, when?"
+        },
+        {
+          "id": 3,
+          "dialogue": "Wie viel kostet die Rechnung?",
+          "dialogue_translation": "How much is the bill?",
+          "options": [
+            "Die Rechnung ist zwanzig Euro.",
+            "Ich lese gern.",
+            "Guten Abend!"
+          ],
+          "correct_answer": "Die Rechnung ist zwanzig Euro.",
+          "meaning": "The bill is twenty euros."
+        },
+        {
+          "id": 4,
+          "dialogue": "Bitte sprechen Sie langsamer.",
+          "dialogue_translation": "Please speak more slowly.",
+          "options": [
+            "Natürlich, ich spreche langsam.",
+            "Ich habe Hunger.",
+            "Nein, danke."
+          ],
+          "correct_answer": "Natürlich, ich spreche langsam.",
+          "meaning": "Of course, I speak slowly."
+        },
+        {
+          "id": 5,
+          "dialogue": "Wie kann ich Ihnen helfen?",
+          "dialogue_translation": "How can I help you?",
+          "options": [
+            "Ich brauche eine Reservierung.",
+            "Ich trinke Tee.",
+            "Guten Morgen!"
+          ],
+          "correct_answer": "Ich brauche eine Reservierung.",
+          "meaning": "I need a reservation."
+        },
+        {
+          "id": 6,
+          "dialogue": "Vielen Dank!",
+          "dialogue_translation": "Thank you very much!",
+          "options": [
+            "Bitte sehr!",
+            "Ich bin müde.",
+            "Auf Wiedersehen!"
+          ],
+          "correct_answer": "Bitte sehr!",
+          "meaning": "You’re very welcome!"
+        }
+      ]
+    }
+  ]
+}

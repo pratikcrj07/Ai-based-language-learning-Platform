@@ -1,0 +1,2162 @@
+﻿[
+    {
+        "text":  "Hallo!",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Guten Morgen!",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Guten Tag!",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Guten Abend!",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Hi, wie geht es dir?",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Hallo, schön dich zu sehen.",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Hey, wie geht\u0027s?",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Hallo zusammen!",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Guten Morgen, wie geht es dir?",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Hi!",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Hallo, alles gut?",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Guten Tag, wie geht es Ihnen?",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Hey, schön dich zu treffen.",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Hallo, wie läuft dein Tag?",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Guten Abend, wie war dein Tag?",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Hi, lange nicht gesehen.",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Hallo, wie geht es euch?",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Guten Morgen zusammen!",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Hey, alles in Ordnung?",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Hallo, schön dich kennenzulernen.",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Guten Tag, schön Sie zu sehen.",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Hi, wie läuft es?",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Hallo, bist du da?",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Hey, wie geht es heute?",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Guten Abend zusammen.",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Hallo Leute!",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Guten Morgen, alle zusammen.",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Hi, schön dich wiederzusehen.",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Hallo, wie ist es dir heute ergangen?",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Hey, guten Tag!",
+        "intent":  "greeting",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich heiße Anna.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Name ist Lukas.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich bin Maria.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich komme aus Nepal.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich wohne in Kathmandu.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich bin Student.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich lerne Deutsch.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich bin 20 Jahre alt.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich heiße Daniel und komme aus Nepal.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Name ist Sophie und ich wohne in Berlin.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich möchte mich vorstellen.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich stelle mich kurz vor.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich bin neu hier.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich heiße Paul, schön dich kennenzulernen.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Name ist Emma.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich komme aus Frankreich und wohne jetzt in Deutschland.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich bin Student an einer Universität.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich lerne Deutsch seit einem Jahr.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich wohne mit meiner Familie.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich bin aus Nepal.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Name ist Felix und ich studiere Informatik.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich heiße Nina und bin Studentin.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich möchte etwas über mich erzählen.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich bin zwanzig Jahre alt.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich lebe in Kathmandu.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich komme ursprünglich aus Nepal.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich bin neu in dieser Stadt.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich heiße Tom.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Mein Name ist Laura und ich lerne Deutsch.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Freut mich, ich bin Max.",
+        "intent":  "introduction",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich stehe jeden Morgen um sieben Uhr auf.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich frühstücke jeden Tag zu Hause.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich gehe morgens zur Universität.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Nachmittags lerne ich Deutsch.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich mache abends meine Hausaufgaben.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich gehe jeden Tag spazieren.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich lese morgens die Nachrichten.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich arbeite von neun bis fünf Uhr.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich koche meistens am Abend.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich trinke morgens Kaffee.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich fahre jeden Tag mit dem Bus.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich räume mein Zimmer am Wochenende auf.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich dusche jeden Morgen.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich höre abends Musik.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich sehe nach der Arbeit fern.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich mache jeden Nachmittag eine Pause.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich gehe um elf Uhr schlafen.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich kaufe samstags Lebensmittel.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich verbringe viel Zeit zu Hause.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich lerne normalerweise am Abend.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich schreibe jeden Tag Nachrichten.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich esse mittags in der Mensa.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich beginne meinen Tag mit einem Frühstück.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich mache morgens Sport.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich helfe meiner Familie im Haushalt.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich gehe nach der Schule nach Hause.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich trinke viel Wasser während des Tages.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich plane meinen Tag am Morgen.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich verbringe den Sonntag mit meiner Familie.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich habe unter der Woche einen festen Tagesablauf.",
+        "intent":  "daily_life",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich habe eine kleine Familie.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine Familie lebt in Nepal.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe einen Bruder.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe zwei Schwestern.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine Mutter arbeitet in einem Krankenhaus.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Vater ist Lehrer.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich wohne mit meinen Eltern.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine Schwester studiert.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Bruder spielt gerne Fußball.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine Eltern wohnen in Kathmandu.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich besuche meine Großeltern am Wochenende.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine Familie ist sehr freundlich.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe eine große Familie.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine Mutter kocht gerne.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Vater liest jeden Abend.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine Schwester ist jünger als ich.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Bruder ist älter als ich.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich verbringe gerne Zeit mit meiner Familie.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine Eltern unterstützen mich.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine Großeltern wohnen auf dem Land.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe einen Cousin in Deutschland.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine Familie isst abends zusammen.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Wir feiern Geburtstage zusammen.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine Schwester lernt Deutsch.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Vater arbeitet im Büro.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Meine Mutter liebt Gartenarbeit.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich telefoniere jeden Sonntag mit meiner Familie.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Wir besuchen unsere Verwandten oft.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Meine Familie lebt in einer kleinen Stadt.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich bin das älteste Kind in meiner Familie.",
+        "intent":  "family",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Mein Hobby ist Fußball.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich spiele gerne Fußball.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich höre in meiner Freizeit Musik.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich lese gerne Bücher.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich spiele gerne Videospiele.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich gehe gerne wandern.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich fotografiere gerne.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich schwimme gern.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich male in meiner Freizeit.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich koche gerne.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich fahre gerne Fahrrad.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich sehe gerne Filme.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich spiele Gitarre.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich lerne gerne neue Sprachen.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich tanze gerne.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich zeichne gerne.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich verbringe meine Freizeit mit Freunden.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich sammle gerne Briefmarken.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich gehe gerne joggen.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich mag Brettspiele.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich lese am Wochenende Romane.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich höre gerne Podcasts.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich interessiere mich für Fotografie.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich spiele am Abend Computerspiele.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich gehe gerne ins Kino.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich liebe es zu kochen.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich übe jeden Tag Gitarre.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich mag kreative Aktivitäten.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich verbringe gerne Zeit mit meinem Fahrrad.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich probiere gerne neue Hobbys aus.",
+        "intent":  "hobby",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich esse gerne Pizza.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Lieblingsessen ist Pasta.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich trinke morgens Kaffee.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich mag deutsches Essen.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich esse gerne Reis und Gemüse.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich liebe Schokolade.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich mag keine scharfen Speisen.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich esse oft Obst.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich koche gerne zu Hause.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich bestelle gerne Pizza.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Lieblingsgetränk ist Tee.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich esse gern Suppe.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich mag vegetarisches Essen.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich esse jeden Morgen Frühstück.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich liebe Eis.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich trinke viel Wasser.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich esse gerne Nudeln.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Lieblingsgericht ist Curry.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich mag frisches Gemüse.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich esse selten Fast Food.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich probiere gerne neue Gerichte.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich mag Käse sehr gern.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich esse gerne Brot zum Frühstück.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich trinke keinen Kaffee.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich liebe gebratenes Gemüse.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Mein Lieblingsobst sind Äpfel.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich esse gerne Kuchen.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich mag französisches Essen.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich bereite mein Mittagessen selbst zu.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich esse gerne mit meiner Familie.",
+        "intent":  "food",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich studiere Informatik.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich arbeite in einem Büro.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe heute Unterricht.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich muss für eine Prüfung lernen.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine Arbeit beginnt um neun Uhr.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe morgen eine Prüfung.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich arbeite an einem Projekt.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich lerne gerade Grammatik.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich besuche eine Universität.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe viele Hausaufgaben.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Lehrer ist sehr nett.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich arbeite heute von zu Hause.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich schreibe gerade einen Bericht.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe nächste Woche eine Prüfung.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich lerne jeden Abend für die Universität.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Studium ist manchmal schwierig.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe heute eine Besprechung.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich muss ein Projekt abgeben.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich arbeite mit meinen Kollegen.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich mache gerade meine Hausaufgaben.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe heute drei Kurse.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich lerne für meine Abschlussprüfung.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine Arbeit macht mir Spaß.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe einen neuen Auftrag bekommen.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich studiere an einer Universität.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich arbeite an meiner Präsentation.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich muss morgen früh zur Arbeit.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Mein Kurs beginnt um zehn Uhr.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich habe heute viel zu tun.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich bereite mich auf eine Prüfung vor.",
+        "intent":  "school_work",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich treffe mich heute mit meinen Freunden.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine beste Freundin heißt Anna.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe viele gute Freunde.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Freund wohnt in meiner Nähe.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Wir spielen zusammen Fußball.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich gehe mit meinen Freunden ins Kino.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine Freunde helfen mir oft.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich telefoniere jeden Abend mit meinen Freunden.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Wir lernen zusammen.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein bester Freund ist sehr lustig.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich verbringe gerne Zeit mit meinen Freunden.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine Freunde wohnen in Kathmandu.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Wir essen am Wochenende zusammen.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe einen neuen Freund kennengelernt.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine Freunde spielen gerne Spiele.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich treffe meine Freunde am Samstag.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Wir gehen manchmal zusammen wandern.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine Freundin lernt Deutsch.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe eine enge Freundschaft mit ihm.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Wir schreiben uns jeden Tag.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine Freunde unterstützen mich.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich lade meine Freunde zu meiner Party ein.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Wir sehen uns morgen.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Freund studiert auch Informatik.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich mache gerne Ausflüge mit meinen Freunden.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Wir trinken zusammen Kaffee.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich kenne meine besten Freunde seit Jahren.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Meine Freunde wohnen in verschiedenen Städten.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich möchte heute meine Freunde treffen.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Wir haben viel Spaß zusammen.",
+        "intent":  "friends",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich reise gerne nach Frankreich.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich möchte Deutschland besuchen.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Letztes Jahr war ich in Paris.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich fahre nächste Woche nach Berlin.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich reise gerne mit dem Zug.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich möchte im Sommer nach Italien reisen.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich war schon einmal in München.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich plane eine Reise nach Frankreich.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich reise gerne mit meiner Familie.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich möchte neue Länder kennenlernen.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich fliege morgen nach Paris.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich verbringe meinen Urlaub gerne am Meer.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich möchte die Alpen sehen.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Wir reisen im August nach Deutschland.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich war letztes Jahr in Österreich.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich buche heute ein Hotel.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich nehme den Zug nach Köln.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich möchte gerne Europa bereisen.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Meine nächste Reise ist nach Frankreich.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich liebe es, neue Städte zu entdecken.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich reise oft im Sommer.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich fahre mit dem Auto in den Urlaub.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich möchte Berlin besuchen.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Wir planen eine Reise nach Italien.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich war noch nie in Spanien.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich möchte einmal nach Japan reisen.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich packe gerade meinen Koffer.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Unser Flug geht morgen früh.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich verbringe zwei Wochen in Frankreich.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich reise gerne in andere Länder.",
+        "intent":  "travel",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Was machst du morgen?",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich möchte morgen ins Kino gehen.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Am Wochenende treffe ich meine Freunde.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe heute Abend keine Pläne.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich werde morgen lernen.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Nächste Woche besuche ich meine Familie.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich plane eine kleine Reise.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Was hast du für morgen geplant?",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich möchte am Samstag Fußball spielen.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Heute Abend möchte ich zu Hause bleiben.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich werde nächste Woche arbeiten.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Am Sonntag gehe ich spazieren.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich plane, Deutsch zu lernen.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Was möchtest du am Wochenende machen?",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe vor, morgen früh aufzustehen.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Wir wollen am Freitag zusammen essen.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich werde diesen Sommer reisen.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Morgen möchte ich meine Hausaufgaben machen.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich plane eine Party für Samstag.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Nächsten Monat möchte ich einen Kurs beginnen.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe noch keine Pläne für Sonntag.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich möchte morgen meine Freunde besuchen.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Was machst du heute Abend?",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich werde am Wochenende meine Familie besuchen.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Wir planen einen Ausflug.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich möchte später einen Film sehen.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Nächste Woche habe ich viel vor.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich plane, am Sonntag zu Hause zu bleiben.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Was willst du morgen machen?",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich möchte bald eine neue Sprache lernen.",
+        "intent":  "plans",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Gestern war ich im Kino.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe gestern Fußball gespielt.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Letztes Wochenende habe ich meine Familie besucht.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich war letzte Woche in Berlin.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Gestern habe ich Deutsch gelernt.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe heute Morgen gefrühstückt.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Letzten Sommer bin ich nach Frankreich gereist.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe gestern einen Film gesehen.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Am Samstag war ich mit Freunden unterwegs.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe gestern gekocht.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Letzte Woche habe ich ein Buch gelesen.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich war gestern im Park.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe am Wochenende viel gearbeitet.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Gestern habe ich meine Hausaufgaben gemacht.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe letzte Nacht Musik gehört.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Wir waren gestern im Restaurant.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe vor zwei Tagen eingekauft.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Letzten Monat habe ich eine Reise gemacht.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe gestern meine Freunde getroffen.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Am Sonntag habe ich lange geschlafen.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich war letzte Woche krank.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Gestern bin ich mit dem Bus gefahren.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe gestern Kaffee getrunken.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Letztes Wochenende habe ich einen Film gesehen.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe gestern einen Brief geschrieben.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Vor einer Woche war ich in München.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich habe gestern Abend gekocht.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Wir haben letzten Samstag zusammen gelernt.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich bin gestern früh nach Hause gegangen.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich habe letzte Woche ein neues Buch gekauft.",
+        "intent":  "past_activity",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Der Himmel sieht heute schön aus.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Zimmer hat zwei Fenster.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Der Tisch steht neben dem Sofa.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich sehe einen Vogel im Garten.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Das Buch liegt auf dem Tisch.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Handy ist auf dem Schreibtisch.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Die Straße ist heute ruhig.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Der Bus ist gerade angekommen.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Das Fenster ist offen.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich habe einen blauen Rucksack.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Der Hund schläft unter dem Tisch.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Die Lampe ist sehr hell.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Computer funktioniert gut.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Die Tür ist geschlossen.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Auf dem Tisch steht eine Flasche.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich sehe ein großes Gebäude.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Der Garten ist hinter dem Haus.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Fahrrad steht vor der Tür.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Die Tasche ist neben dem Stuhl.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Das Wetter verändert sich schnell.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Ich höre ein Geräusch draußen.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Der Zug fährt gerade ab.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Die Uhr hängt an der Wand.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Mein Schlüssel liegt in der Tasche.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "train"
+    },
+    {
+        "text":  "Das Geschäft ist an der Ecke.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Der Stuhl ist sehr bequem.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Ich habe heute einen neuen Rucksack.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Die Straße führt zum Bahnhof.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Das Licht ist noch an.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "test"
+    },
+    {
+        "text":  "Auf dem Boden liegt ein Buch.",
+        "intent":  "unknown",
+        "language":  "de",
+        "split":  "test"
+    }
+]

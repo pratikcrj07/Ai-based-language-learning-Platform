@@ -1,0 +1,612 @@
+{
+  "language": "de",
+  "level": "A1",
+  "unit": 4,
+  "title": "Basic Food and Drinks",
+  "contents": [
+    {
+      "id": 1,
+      "content_type": "introduction",
+      "description_word": "Practice the key vocabulary for this lesson.",
+      "description_sentence": "Build confidence with realistic everyday phrases and sentence patterns.",
+      "description_dialogue": "",
+      "contents": []
+    },
+    {
+      "id": 2,
+      "content_type": "words",
+      "description": "(Try repeating these words after the audio to practice your pronunciation.)",
+      "contents": [
+        {
+          "id": 1,
+          "word": "Brot",
+          "translation": "bread"
+        },
+        {
+          "id": 2,
+          "word": "Wasser",
+          "translation": "water"
+        },
+        {
+          "id": 3,
+          "word": "Milch",
+          "translation": "milk"
+        },
+        {
+          "id": 4,
+          "word": "Kaffee",
+          "translation": "coffee"
+        },
+        {
+          "id": 5,
+          "word": "Tee",
+          "translation": "tea"
+        },
+        {
+          "id": 6,
+          "word": "Apfel",
+          "translation": "apple"
+        },
+        {
+          "id": 7,
+          "word": "Pizza",
+          "translation": "pizza"
+        },
+        {
+          "id": 8,
+          "word": "Gemüse",
+          "translation": "vegetables"
+        },
+        {
+          "id": 9,
+          "word": "essen",
+          "translation": "to eat"
+        },
+        {
+          "id": 10,
+          "word": "trinken",
+          "translation": "to drink"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "content_type": "word_content",
+      "contents": [
+        {
+          "id": 1,
+          "words": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": 2,
+          "words": [
+            3,
+            4
+          ]
+        },
+        {
+          "id": 3,
+          "words": [
+            5,
+            6
+          ]
+        },
+        {
+          "id": 4,
+          "words": [
+            7,
+            8
+          ]
+        },
+        {
+          "id": 5,
+          "words": [
+            5
+          ]
+        },
+        {
+          "id": 6,
+          "words": [
+            6
+          ]
+        },
+        {
+          "id": 7,
+          "words": [
+            7
+          ]
+        },
+        {
+          "id": 8,
+          "words": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "content_type": "matching_exercises",
+      "description": "Match the words with their English translations.",
+      "exercises": [
+        {
+          "id": 1,
+          "question_words": [
+            3,
+            4,
+            5
+          ],
+          "answer_words": [
+            5,
+            4,
+            3
+          ]
+        },
+        {
+          "id": 2,
+          "question_words": [
+            5,
+            6,
+            7
+          ],
+          "answer_words": [
+            7,
+            6,
+            5
+          ]
+        },
+        {
+          "id": 3,
+          "question_words": [
+            7,
+            8,
+            9
+          ],
+          "answer_words": [
+            9,
+            8,
+            7
+          ]
+        },
+        {
+          "id": 4,
+          "question_words": [
+            9,
+            10,
+            1
+          ],
+          "answer_words": [
+            1,
+            10,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "content_type": "mcq_translation_exercises",
+      "description": "Choose the correct translation for the given word.",
+      "exercises": [
+        {
+          "id": 1,
+          "question_word": 1,
+          "options": [
+            1,
+            4,
+            7,
+            9
+          ]
+        },
+        {
+          "id": 2,
+          "question_word": 2,
+          "options": [
+            2,
+            5,
+            8,
+            10
+          ]
+        },
+        {
+          "id": 3,
+          "question_word": 3,
+          "options": [
+            3,
+            6,
+            9,
+            1
+          ]
+        },
+        {
+          "id": 4,
+          "question_word": 4,
+          "options": [
+            4,
+            7,
+            10,
+            2
+          ]
+        },
+        {
+          "id": 5,
+          "question_word": 5,
+          "options": [
+            5,
+            8,
+            1,
+            3
+          ]
+        },
+        {
+          "id": 6,
+          "question_word": 6,
+          "options": [
+            6,
+            9,
+            2,
+            4
+          ]
+        },
+        {
+          "id": 7,
+          "question_word": 7,
+          "options": [
+            7,
+            10,
+            3,
+            5
+          ]
+        },
+        {
+          "id": 8,
+          "question_word": 8,
+          "options": [
+            8,
+            1,
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "content_type": "sentence_translate_target_to_english",
+      "description": "Translate the following sentences from the target language to English.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Ich trinke Wasser.",
+          "options": [
+            "I",
+            "drink",
+            "water",
+            "coffee",
+            "bread",
+            "home"
+          ],
+          "meanings": {
+            "Ich": "I",
+            "trinke": "drink",
+            "Wasser": "water"
+          },
+          "correct_order": [
+            "I",
+            "drink",
+            "water"
+          ]
+        },
+        {
+          "id": 2,
+          "sentence": "Ich esse Brot und Käse.",
+          "options": [
+            "I",
+            "eat",
+            "bread",
+            "and",
+            "cheese",
+            "tea"
+          ],
+          "meanings": {
+            "Ich": "I",
+            "esse": "eat",
+            "Brot": "bread"
+          },
+          "correct_order": [
+            "I",
+            "eat",
+            "bread",
+            "and",
+            "cheese"
+          ]
+        },
+        {
+          "id": 3,
+          "sentence": "Ich möchte einen Kaffee.",
+          "options": [
+            "I",
+            "want",
+            "a",
+            "coffee",
+            "milk",
+            "pizza"
+          ],
+          "meanings": {
+            "Ich": "I",
+            "möchte": "want",
+            "Kaffee": "coffee"
+          },
+          "correct_order": [
+            "I",
+            "want",
+            "a",
+            "coffee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "content_type": "sentence_translate_english_to_target",
+      "description": "Translate the following sentences from English to the target language.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "I drink water.",
+          "options": [
+            "Ich",
+            "trinke",
+            "Wasser",
+            "Kaffee",
+            "Brot",
+            "Apfel"
+          ],
+          "meanings": {
+            "Ich": "I",
+            "trinke": "drink",
+            "Wasser": "water"
+          },
+          "correct_order": [
+            "Ich",
+            "trinke",
+            "Wasser"
+          ]
+        },
+        {
+          "id": 2,
+          "sentence": "I eat bread and cheese.",
+          "options": [
+            "Ich",
+            "esse",
+            "Brot",
+            "und",
+            "Käse",
+            "Tee"
+          ],
+          "meanings": {
+            "Ich": "I",
+            "esse": "eat",
+            "Brot": "bread"
+          },
+          "correct_order": [
+            "Ich",
+            "esse",
+            "Brot",
+            "und",
+            "Käse"
+          ]
+        },
+        {
+          "id": 3,
+          "sentence": "I want a coffee.",
+          "options": [
+            "Ich",
+            "möchte",
+            "einen",
+            "Kaffee",
+            "Apfel",
+            "Milch"
+          ],
+          "meanings": {
+            "Ich": "I",
+            "möchte": "want",
+            "Kaffee": "coffee"
+          },
+          "correct_order": [
+            "Ich",
+            "möchte",
+            "einen",
+            "Kaffee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "content_type": "listen_and_choose",
+      "description": "Listen to the audio and choose the correct word order.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Ich trinke Wasser.",
+          "options": [
+            "Ich",
+            "trinke",
+            "Wasser",
+            "Kaffee",
+            "Brot",
+            "Apfel"
+          ],
+          "correct_order": [
+            "Ich",
+            "trinke",
+            "Wasser"
+          ],
+          "meaning": "I drink water."
+        },
+        {
+          "id": 2,
+          "sentence": "Ich esse Brot.",
+          "options": [
+            "Ich",
+            "esse",
+            "Brot",
+            "Gemüse",
+            "Tee",
+            "Pizza"
+          ],
+          "correct_order": [
+            "Ich",
+            "esse",
+            "Brot"
+          ],
+          "meaning": "I eat bread."
+        },
+        {
+          "id": 3,
+          "sentence": "Ich möchte Kaffee.",
+          "options": [
+            "Ich",
+            "möchte",
+            "Kaffee",
+            "Wasser",
+            "Apfel",
+            "Milch"
+          ],
+          "correct_order": [
+            "Ich",
+            "möchte",
+            "Kaffee"
+          ],
+          "meaning": "I want coffee."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "content_type": "fill_in_the_blank",
+      "description": "Fill in the blanks with the correct words to complete the sentences.",
+      "exercises": [
+        {
+          "id": 1,
+          "sentence": "Ich trinke _____.",
+          "options": [
+            "Wasser",
+            "Brot",
+            "Apfel",
+            "Pizza"
+          ],
+          "correct_answer": "Wasser",
+          "meaning": "I drink water."
+        },
+        {
+          "id": 2,
+          "sentence": "Ich esse _____.",
+          "options": [
+            "Brot",
+            "Tee",
+            "Gemüse",
+            "Kaffee"
+          ],
+          "correct_answer": "Brot",
+          "meaning": "I eat bread."
+        },
+        {
+          "id": 3,
+          "sentence": "Ich möchte _____ Kaffee.",
+          "options": [
+            "einen",
+            "großen",
+            "Guten",
+            "drei"
+          ],
+          "correct_answer": "einen",
+          "meaning": "I want a coffee."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "content_type": "dialogue",
+      "description": "Practice a real conversation by choosing the correct response.",
+      "exercises": [
+        {
+          "id": 1,
+          "dialogue": "Was möchtest du trinken?",
+          "dialogue_translation": "What would you like to drink?",
+          "options": [
+            "Ich möchte Wasser.",
+            "Ich bin müde.",
+            "Auf Wiedersehen!"
+          ],
+          "correct_answer": "Ich möchte Wasser.",
+          "meaning": "I would like water."
+        },
+        {
+          "id": 2,
+          "dialogue": "Was essen Sie?",
+          "dialogue_translation": "What are you eating?",
+          "options": [
+            "Ich esse Brot.",
+            "Ich lerne Deutsch.",
+            "Bitte."
+          ],
+          "correct_answer": "Ich esse Brot.",
+          "meaning": "I am eating bread."
+        },
+        {
+          "id": 3,
+          "dialogue": "Magst du Kaffee?",
+          "dialogue_translation": "Do you like coffee?",
+          "options": [
+            "Ja, ich trinke gern Kaffee.",
+            "Nein, ich wohne hier.",
+            "Guten Abend!"
+          ],
+          "correct_answer": "Ja, ich trinke gern Kaffee.",
+          "meaning": "Yes, I like drinking coffee."
+        },
+        {
+          "id": 4,
+          "dialogue": "Was brauchst du?",
+          "dialogue_translation": "What do you need?",
+          "options": [
+            "Ich brauche Wasser.",
+            "Ich bin in der Schule.",
+            "Danke schön."
+          ],
+          "correct_answer": "Ich brauche Wasser.",
+          "meaning": "I need water."
+        },
+        {
+          "id": 5,
+          "dialogue": "Möchtest du etwas essen?",
+          "dialogue_translation": "Would you like something to eat?",
+          "options": [
+            "Ja, ich möchte Pizza.",
+            "Ich spiele Fußball.",
+            "Guten Morgen!"
+          ],
+          "correct_answer": "Ja, ich möchte Pizza.",
+          "meaning": "Yes, I would like pizza."
+        },
+        {
+          "id": 6,
+          "dialogue": "Was trinken wir?",
+          "dialogue_translation": "What are we drinking?",
+          "options": [
+            "Wir trinken Tee.",
+            "Ich bin 22 Jahre alt.",
+            "Schön, dich zu treffen!"
+          ],
+          "correct_answer": "Wir trinken Tee.",
+          "meaning": "We drink tea."
+        }
+      ]
+    }
+  ]
+}
